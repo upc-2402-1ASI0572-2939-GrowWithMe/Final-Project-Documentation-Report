@@ -224,6 +224,21 @@ Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Fin
       - [6.2.1.7. Services Documentation Evidence for Sprint Review](#6217-services-documentation-evidence-for-sprint-review)
       - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
       - [6.2.1.9. Team Collaboration Insights during Sprints](#6219-team-collaboration-insights-during-sprints)
+    - [6.2.2. Sprint 2](#622-sprint-2)
+      - [6.2.2.1. Sprint Planning 1](#6221-sprint-planning-1)
+      - [6.2.2.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)
+      - [6.2.2.3. Sprint Backlog 1](#6223-sprint-backlog-1)
+      - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
+      - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)
+      - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)
+      - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
+      - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
+      - [6.2.2.9. Team Collaboration Insights during Sprints](#6229-team-collaboration-insights-during-sprints)
+  - [6.3. Validation Interviews](#63-validation-interviews)
+    - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
+    - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
+    - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)
+  - [6.4. Video About-the-Product](#64-video-about-the-product)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -2327,6 +2342,51 @@ Imagen de los Insights de la Landing Page:
 Imagen de los Insights de la Web App:
 
 ![image](assets/ing.png)
+
+### 6.2.2. Sprint 2 
+#### 6.2.2.1. Sprint Planning 2  
+#### 6.2.2.2. Líderes y Colaboradores  
+#### 6.2.2.3. Sprint Backlog 2  
+#### 6.2.2.4. Evidencia de Desarrollo  
+#### 6.2.2.5. Evidencia de Pruebas  
+#### 6.2.2.6. Evidencia de Ejecución  
+#### 6.2.2.7. Documentación de Servicios  
+#### 6.2.2.8. Despliegue  
+#### 6.2.2.9. Colaboración del Equipo  
+
+## 6.3. Entrevistas de Validación  
+### 6.3.1. Diseño de Entrevistas  
+
+A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la facilidad de uso de la aplicación actual. Estas preguntas están orientadas a examinar las heurísticas de usabilidad y obtener datos importantes sobre la experiencia del usuario.
+
+1. **"¿Entiendes fácilmente lo que significa cada función?"**  
+   *Objetivo:* Evaluar claridad en el diseño de interfaz y correspondencia con el modelo mental del usuario.
+
+2. **"¿Los botones hacen lo que esperas en cada pantalla?"**  
+   *Objetivo:* Verificar consistencia en la interacción y cumplimiento de expectativas de acción.
+
+3. **"¿La app te avisa antes de borrar algo importante?"**  
+   *Objetivo:* Analizar prevención de errores críticos y manejo de acciones irreversibles.
+
+4. **"¿Los gráficos y números son fáciles de entender?"**  
+   *Objetivo:* Evaluar efectividad en visualización de datos para toma de decisiones agrícolas.
+
+5. **"¿Los colores y letras son fáciles de ver bajo la luz del sol?"**  
+   *Objetivo:* Testear legibilidad en condiciones reales de trabajo en campo.
+
+6. **"Comparado con llevar registros en papel, ¿esto es más fácil?"**  
+   *Objetivo:* Medir valor agregado frente a métodos tradicionales (benchmark de usabilidad).
+
+7. **"¿Qué fue lo más difícil de hacer en la app?"**  
+   *Objetivo:* Identificar puntos críticos de fricción en el flujo de usuario.
+
+### 6.3.2. Registro de Entrevistas 
+
+### 6.3.3. Evaluaciones según heurísticas 
+
+
+
+## 6.4. Video About-the-Product  
 
 ---
 
