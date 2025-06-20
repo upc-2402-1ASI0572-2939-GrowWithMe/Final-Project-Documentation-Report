@@ -2658,10 +2658,10 @@ Aplicación para evaluar: GrowWithMe
 
 | #Orden | Problema                                                                 | Escala de Severidad | Heurística/Principio violada(o)       |
 |--------|--------------------------------------------------------------------------|---------------------|---------------------------------------|
-| 1      | Los usuarios quieren tener la opción de modo oscuro.                     | Media               | Consistencia y estándares             |
-| 2      | Los usuarios quieren tener el detalle de cada dispositivo.               | Alta                | Visibilidad del estado del sistema    |
-| 3      | Debe existir una opción de búsqueda en los cultivos.                     | Alta                | Flexibilidad y eficiencia de uso      |
-| 4      | Debe existir un switch para conectar o desconectar los dispositivos.      | Crítica             | Control y libertad del usuario        |
+| 1      | Los usuarios quieren tener la opción de modo oscuro.                     | Moderado            | Consistencia y estándares             |
+| 2      | Los usuarios quieren tener el detalle de cada dispositivo.               | Grave               | Visibilidad del estado del sistema    |
+| 3      | Debe existir una opción de búsqueda en los cultivos.                     | Grave               | Flexibilidad y eficiencia de uso      |
+| 4      | Debe existir un switch para conectar o desconectar los dispositivos.     | Muy grave          | Control y libertad del usuario        |
 
 **Heurísticas y Recomendaciones:**
 
