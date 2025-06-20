@@ -2255,22 +2255,24 @@ Se presentan los commits realizados en el repositorio de GitHub, en los cuales s
 | **Web App**      | develop | ade91ec   | feat: add list notifications           |                     |                    
 | **Web App**      | develop | 9e46771   | merge                                |                     |                    
 | **Web App**      | develop | f7c4492   | feat: dashboard line for temperature and humidity |         |                    
-| **Web App**      | develop | 81123a6   | fix: modify modal parameters modal edit |                    |                    
+| **Web App**      | develop | 81123a6   | fix: modify modal parameters modal edit |                    |  
+
+
 #### 6.2.1.5. Testing Suite Evidence for Sprint Review
 
 Muestra las pruebas realizadas para asegurar que las funcionalidades del Sprint funcionen correctamente. Incluye pruebas unitarias, de integración, de interfaz de usuario, de regresión y de aceptación, junto con evidencia visual y detalles de cualquier error encontrado y su resolución. Esto demuestra que el producto cumple con los requisitos establecidos.
 
 | Repository         | Branch           | Commit Id | Commit Message             | Commit Message Body | Commited on (Date) |
 |--------------------|------------------|-----------|----------------------------|----------------------|--------------------|
-| acceptance-test-IoT | test/UserStories | 70f7178   | Acceptance_test_09.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | e075329   | Acceptance_test_08.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | 7580071   | Acceptance_test_07.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | 792b52e   | Acceptance_test_06.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | 3549d2d   | Acceptance_test_05.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | dbf0ead   | Acceptance_test_04.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | d9d7765   | Acceptance_test_03.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | 16df5ba   | Acceptance_test_02.feature | -                    | 25/09/2023         |
-| acceptance-test-IoT | test/UserStories | 3fab5b6   | Acceptance_test_01.feature | -                    | 25/09/2023         |
+| acceptance-test-IoT | test/UserStories | 70f7178   | Acceptance_test_09.feature | -                    | 04/05/2025          |
+| acceptance-test-IoT | test/UserStories | e075329   | Acceptance_test_08.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | 7580071   | Acceptance_test_07.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | 792b52e   | Acceptance_test_06.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | 3549d2d   | Acceptance_test_05.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | dbf0ead   | Acceptance_test_04.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | d9d7765   | Acceptance_test_03.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | 16df5ba   | Acceptance_test_02.feature | -                    | 04/05/2025         |
+| acceptance-test-IoT | test/UserStories | 3fab5b6   | Acceptance_test_01.feature | -                    | 04/05/2025         |
 
 #### 6.2.1.6. Execution Evidence for Sprint Review
 
@@ -2344,15 +2346,269 @@ Imagen de los Insights de la Web App:
 ![image](assets/ing.png)
 
 ### 6.2.2. Sprint 2 
-#### 6.2.2.1. Sprint Planning 2  
+#### 6.2.2.1. Sprint Planning 2 
+
+| Sprint # | 2 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2025 - 06 - 20 |
+| Time | 2:00 PM |
+| Location | Virtual via Discord |
+| Prepared By | Acuña Gomez, Diego |
+| Attendees (to planning meeting) | Diego Acuña / Favio Landeo / Beth Oneglio / Milagros Tongo / Anatoly Noriega / Jean Morin |
+| Sprint 1 - Review Summary | 	Se desplego correctamente el Landing Page, nuestra Web Application y Mobile Application. Además, se integró una solución IoT a nuestros proyectos. Como grupo opinamos que se la información detallada es adecuada, sin embargo, existen mejoras por implementar. |
+| Sprint 1 - Retrospective Summary | Como equipo, hemos logrado desplegar con éxito el landing page, garantizando que la información sea precisa y las secciones estén bien estructuradas. Nuestra forma de trabajo ha sido altamente colaborativa, lo que nos ha permitido obtener buenos resultados. No obstante, identificamos que podemos fortalecer la confianza entre los miembros para mejorar aún más la dinámica del equipo. |
+| **Sprint Goal & User Stories** | - |
+| Sprint 2 Goal | Realizar últimos detalles del funcionamiento de la solución IoT integrada a nuestras aplicaciones. |
+| Sprint 2 - Velocity | El equipo puede aceptar 35 Story Points. |
+| Sprint 2 - Story Points | La suma de los Story Points de los User Stories que se atenderá es 62. |
+
 #### 6.2.2.2. Líderes y Colaboradores  
+
+| Team Member      | GitHub Username | Prototipo Wokwi <br> Features Leader (L)/Collaborator (C) | Frontend BC <br> Features Leader (L)/Collaborator (C) | Mobile BC <br> Features Leader (L)/Collaborator (C) | Backend <br> Features Leader (L)/Collaborator (C) |
+|------------------|-----------------|------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|
+| Diego Acuña      | C               | C                                                    | L                                                        | C                                                             | C                                                        |
+| Favio Landeo     | C               | C                                                    | C                                                        | C                                                             | L                                                        |
+| Beth Oneglio     | C               | L                                                    | C                                                        | C                                                             | C                                                        |
+| Milagros Tongo   | C	             | C                                                    | C                                                        | L                                                             | C                                                        |
+| Anatoly Noriega  | C               | C                                                    | C                                                        | L                                                             | C                                                        |
+| Jean Morin       | L               | C                                                    | C                                                        | L                                                             | C                                                        |
+
 #### 6.2.2.3. Sprint Backlog 2  
-#### 6.2.2.4. Evidencia de Desarrollo  
-#### 6.2.2.5. Evidencia de Pruebas  
-#### 6.2.2.6. Evidencia de Ejecución  
-#### 6.2.2.7. Documentación de Servicios  
-#### 6.2.2.8. Despliegue  
-#### 6.2.2.9. Colaboración del Equipo  
+
+<table>
+  <tr>
+    <th valign="top"><b>Sprint #</b></th>
+    <th colspan="7" valign="top"><b>Sprint 2 – API REST (Agricultura)</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><b>User Story</b></td>
+    <td colspan="6" valign="top"><b>Work – Item / Task</b></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Id</b></td>
+    <td valign="top"><b>Title</b></td>
+    <td valign="top"><b>Id</b></td>
+    <td valign="top"><b>Title</b></td>
+    <td valign="top"><b>Description</b></td>
+    <td valign="top"><b>Estimation (Hours)</b></td>
+    <td valign="top"><b>Assigned To</b></td>
+    <td valign="top"><b>Status</b></td>
+  </tr>
+  
+  <!-- Endpoint de Agricultor (TS01) -->
+  <tr>
+    <td rowspan="3" valign="top"><b>TS01</b></td>
+    <td rowspan="3" valign="top">Endpoint de Agricultor</td>
+    <td valign="top">TK01</td>
+    <td valign="top">Implementar POST (Registro)</td>
+    <td valign="top">Crear endpoint para registro de agricultores con validación de datos.</td>
+    <td valign="top">3 hours</td>
+    <td valign="top">Favio</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK02</td>
+    <td valign="top">Implementar PUT (Actualización)</td>
+    <td valign="top">Desarrollar lógica para actualizar perfiles de agricultores.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Milagros</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK03</td>
+    <td valign="top">Pruebas unitarias</td>
+    <td valign="top">Validar escenarios de registro y actualización.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Beth</td>
+    <td valign="top">Done</td>
+  </tr>
+
+  <!-- Endpoint de Consultor (TS02) -->
+  <tr>
+    <td rowspan="3" valign="top"><b>TS02</b></td>
+    <td rowspan="3" valign="top">Endpoint de Consultor</td>
+    <td valign="top">TK04</td>
+    <td valign="top">Implementar GET (Listado)</td>
+    <td valign="top">Obtener lista de agricultores asignados a un consultor.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Diego</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK05</td>
+    <td valign="top">Implementar POST (Notificaciones)</td>
+    <td valign="top">Enviar consultas a agricultores con notificación.</td>
+    <td valign="top">3 hours</td>
+    <td valign="top">Jean</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK06</td>
+    <td valign="top">Integración con DB</td>
+    <td valign="top">Conectar endpoints a base de datos.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Anatolky</td>
+    <td valign="top">Done</td>
+  </tr>
+
+  <!-- Endpoint de Cultivos (TS03) -->
+  <tr>
+    <td rowspan="3" valign="top"><b>TS03</b></td>
+    <td rowspan="3" valign="top">Endpoint de Cultivos</td>
+    <td valign="top">TK07</td>
+    <td valign="top">Implementar POST (Registro)</td>
+    <td valign="top">Permitir a agricultores registrar nuevos cultivos.</td>
+    <td valign="top">3 hours</td>
+    <td valign="top">Favio</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK08</td>
+    <td valign="top">Implementar GET (Consulta)</td>
+    <td valign="top">Recuperar detalles de cultivos por ID.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Diego</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK09</td>
+    <td valign="top">Documentación Swagger</td>
+    <td valign="top">Generar documentación API para este endpoint.</td>
+    <td valign="top">1 hour</td>
+    <td valign="top">Milagros</td>
+    <td valign="top">Done</td>
+  </tr>
+
+  <!-- Endpoint de Dispositivos (TS04) -->
+  <tr>
+    <td rowspan="3" valign="top"><b>TS04</b></td>
+    <td rowspan="3" valign="top">Endpoint de Dispositivos IoT</td>
+    <td valign="top">TK10</td>
+    <td valign="top">Implementar POST (Registro)</td>
+    <td valign="top">Registrar dispositivos asociados a cultivos.</td>
+    <td valign="top">3 hours</td>
+    <td valign="top">Favio</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK11</td>
+    <td valign="top">Implementar GET (Listado)</td>
+    <td valign="top">Listar todos los dispositivos de un agricultor.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Diego</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK12</td>
+    <td valign="top">Pruebas de integración</td>
+    <td valign="top">Validar conexión con servicios IoT.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Anatoly</td>
+    <td valign="top">Done</td>
+  </tr>
+
+  <!-- Endpoint de Notificaciones (TS05) -->
+  <tr>
+    <td rowspan="3" valign="top"><b>TS05</b></td>
+    <td rowspan="3" valign="top">Endpoint de Notificaciones</td>
+    <td valign="top">TK13</td>
+    <td valign="top">Implementar GET (Consulta)</td>
+    <td valign="top">Obtener notificaciones por ID de usuario.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Favio</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK14</td>
+    <td valign="top">Implementar PUT (Estado)</td>
+    <td valign="top">Actualizar estado "leído" de notificaciones.</td>
+    <td valign="top">2 hours</td>
+    <td valign="top">Favio</td>
+    <td valign="top">Done</td>
+  </tr>
+  <tr>
+    <td valign="top">TK15</td>
+    <td valign="top">Configurar Webhooks</td>
+    <td valign="top">Integrar sistema de notificaciones en tiempo real.</td>
+    <td valign="top">4 hours</td>
+    <td valign="top">Diego</td>
+    <td valign="top">Done</td>
+  </tr>
+</table>
+
+#### 6.2.2.4. Development Evidence for Sprint Review
+
+En esta sección mostramos los commits realizados durante el desarrollo del proyecto. 
+
+| Repository           | Branch   | Commit ID | Commit Message                                                                 | Commit Message Body | Committed on (Date) |
+|----------------------|----------|-----------|-------------------------------------------------------------------------------|---------------------|---------------------|
+| Back-End-GrowWithMe  | develop  | 7073186   | feat: profiles bounded context with DDD layers.                               |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 6982408   | Merge branch 'feature/iam' into develop                                       |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 4568033   | feat: iam bounded context with DDD layers.                                    |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 0x861576  | feat: crops bounded context with DDD layers.                                  |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 0x3b818e  | feat: add application properties for naming strategy and JPA Hibernate Configuration. |               | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 0x6a1669  | feat: add shared bounded context with common configuration for open api, naming strategy and auditable models. |       | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 944166d   | chore: initial commit.                                                        |                     | 17/06/2025          |
+
+
+| Repository        | Branch | Commit ID | Commit Message                                      | Commit Message Body | Committed on (Date) |
+|-------------------|--------|-----------|-----------------------------------------------------|---------------------|---------------------|
+| Mobile-GrowWithMe | main   | defCtabd  | feat: add activity crops activity                   |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | defFalc   | feat: add activity crops place holder and retrofitclient |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | S4f4022   | feat: add crops activity schema                     |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | a436cee   | feat: add crops place holder and retrofitclient     |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | a4e54d9   | feat: add fake api url                              |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | G5a9f32   | fix: fix crops layouts                              |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | df086f8   | feat: add crop view holder                          |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | 198d989   | feat: add crop schema                               |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | ce7c1be   | fix: corrections in crop activity                   |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | d7ccd6d   | fix: corrections in crop class, adapter and schema  |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | a795dce   | feat: add activity crops layout                     |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | c283882   | feat: add activity form                             |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | 92c5c36   | feat: add calendar component                        |                     | 17/06/2025          |
+
+#### 6.2.2.5. Testing Suite Evidence for Sprint Review
+
+| Repository         | Branch           | Commit Id | Commit Message             | Commit Message Body | Commited on (Date) |
+|--------------------|------------------|-----------|----------------------------|----------------------|--------------------|
+| acceptance-test-IoT | test/UserStories | a5cf2ec   | Acceptance_test_09.feature | -                    | 20/06/2025         |
+| acceptance-test-IoT | test/UserStories | 54c373c   | Acceptance_test_10.feature | -                    | 20/06/2025          |
+| acceptance-test-IoT | test/UserStories | 2bfd92c   | Acceptance_test_11.feature | -                    | 20/06/2025          |
+| acceptance-test-IoT | test/UserStories | 97475fc   | Acceptance_test_12.feature | -                    | 20/06/2025          |
+| acceptance-test-IoT | test/UserStories | 42323ae   | Acceptance_test_13.feature | -                    | 20/06/2025          |
+
+#### 6.2.2.6. Execution Evidence for Sprint Review  
+
+#### 6.2.2.7. Services Documentation Evidence for Sprint Review
+
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
+
+#### 6.2.2.9. Team Collaboration Insights during Sprint
+
+En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los resultados del trabajo realizado y la actividad generada.
+
+| Alumno                                             | Actividad                                                                                         |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Acuña Gomez, Diego Jose                            | Desarrollo de mejora continua al frontend, dashboard y lista de cultivos.                         |
+| Landeo Simeón, Favio Sebastián                     | Desarrollo del los endponts en el backend.                                                        |
+| Morin Fuentes, Jean Pierre                         | Desarrollo del dashboard.                                                                         |
+| Noriega Suschenko, Anatoly Andrey                  | Desarrollo de la app mobile.                                                                      |
+| Oneglio De Paz, Beth Shantal                       | Desarrollo de mejora continua al frontend.                                                        |
+| Tongo Alejandro, Milagros Salet                    | Desarrollo de la app mobile.                                                                      |
+ 
+Imagen de los Insights del frotend:
+
+![image](assets/ing.png)
+
+Imagen de los Insights de la app mobile:
+
+![image](assets/ing.png)
+
+Imagen de los Insights del Backend:
+
+![image](assets/ing.png)
 
 ## 6.3. Entrevistas de Validación  
 ### 6.3.1. Diseño de Entrevistas  
