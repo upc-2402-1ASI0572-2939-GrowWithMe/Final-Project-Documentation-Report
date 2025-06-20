@@ -2580,6 +2580,29 @@ En esta sección mostramos los commits realizados durante el desarrollo del proy
 
 #### 6.2.2.6. Execution Evidence for Sprint Review  
 
+En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
+
+Landing page
+
+Versión Final
+Estado: En producción activa
+Se accede a la página web - Frontend, desde la opción Aplicación cta.
+![image](assets/GWMLP.png)
+
+#### Frontend
+
+Versión Final
+Estado: En producción activa
+![image](assets/GWMFront.png)
+
+#### WOKWI
+
+Versión Final
+Estado: En producción activa
+![image](assets/WOKWI.jpg)
+
+
+
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
 #### 6.2.2.8. Software Deployment Evidence for Sprint Review
