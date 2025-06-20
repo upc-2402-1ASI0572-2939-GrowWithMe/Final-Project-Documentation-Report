@@ -2661,6 +2661,28 @@ A continuación, se presentan las preguntas que se utilizarán en las entrevista
 
 ### 6.3.2. Registro de Entrevistas 
 
+**Entrevista N°1:**
+
+![](assets/EV1.png)
+
+**Timing:** 0:05
+
+**Nombre:** Jeyson Alejandro
+
+**Edad:** 25 años
+
+Jeyson encontró la landing page y la aplicación web bien estructuradas, con información clara y fácil de navegar. Destacó la fluidez para explorar secciones como servicios, dispositivos, cultivos y calendario de actividades. Valoró funciones como la confirmación antes de borrar datos, los gráficos intuitivos (con colores y números) y la ventaja de digitalizar registros frente al método manual. Los colores y contraste le parecieron adecuados, sin dificultades visuales. No encontró puntos confusos o complicados, resaltando que la aplicación es directa, útil y optimiza la productividad. En general, su feedback fue muy positivo, señalando que cumple con su propósito de manera eficiente.
+
+**Entrevista N°2:**
+
+**Entrevista N°3:**
+
+**Entrevista N°4:**
+
+**Entrevista N°5:**
+
+**Entrevista N°6:**
+
 ### 6.3.3. Evaluaciones según heurísticas 
 
 Aplicación para evaluar: GrowWithMe
