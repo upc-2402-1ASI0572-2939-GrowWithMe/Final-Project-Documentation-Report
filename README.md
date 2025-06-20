@@ -225,9 +225,9 @@ Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Fin
       - [6.2.1.8. Software Deployment Evidence for Sprint Review](#6218-software-deployment-evidence-for-sprint-review)
       - [6.2.1.9. Team Collaboration Insights during Sprints](#6219-team-collaboration-insights-during-sprints)
     - [6.2.2. Sprint 2](#622-sprint-2)
-      - [6.2.2.1. Sprint Planning 1](#6221-sprint-planning-1)
+      - [6.2.2.1. Sprint Planning 2](#6221-sprint-planning-2)
       - [6.2.2.2. Aspect Leaders and Collaborators](#6222-aspect-leaders-and-collaborators)
-      - [6.2.2.3. Sprint Backlog 1](#6223-sprint-backlog-1)
+      - [6.2.2.3. Sprint Backlog 2](#6223-sprint-backlog-2)
       - [6.2.2.4. Development Evidence for Sprint Review](#6224-development-evidence-for-sprint-review)
       - [6.2.2.5. Testing Suite Evidence for Sprint Review](#6225-testing-suite-evidence-for-sprint-review)
       - [6.2.2.6. Execution Evidence for Sprint Review](#6226-execution-evidence-for-sprint-review)
@@ -2363,7 +2363,7 @@ Imagen de los Insights de la Web App:
 | Sprint 2 - Velocity | El equipo puede aceptar 35 Story Points. |
 | Sprint 2 - Story Points | La suma de los Story Points de los User Stories que se atenderá es 62. |
 
-#### 6.2.2.2. Líderes y Colaboradores  
+#### 6.2.2.2. Aspect Leaders and Collaborators 
 
 | Team Member      | GitHub Username | Prototipo Wokwi <br> Features Leader (L)/Collaborator (C) | Frontend BC <br> Features Leader (L)/Collaborator (C) | Mobile BC <br> Features Leader (L)/Collaborator (C) | Backend <br> Features Leader (L)/Collaborator (C) |
 |------------------|-----------------|------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|
@@ -2640,9 +2640,95 @@ A continuación, se presentan las preguntas que se utilizarán en las entrevista
 
 ### 6.3.3. Evaluaciones según heurísticas 
 
+Aplicación para evaluar: GrowWithMe
+
+**Tareas a evaluar:**
+
+- Los usuarios quieren tener la ipción de modo oscuro.
+- Los usuairios quieren tener el detalle de cada dispositivo.
+- Debe exixtir una opcion de búsqueda en los cultivos.
+- Debe exixtir un swich pra conectar o desconectr los dispositivos.
+
+**Tabla resumen:**
+
+| Escala de Severidad |          |          |          |           |
+|---------------------|----------|----------|----------|-----------|
+| 1                   | 2        | 3        | 4        | 5         |
+| No tan grave        | Leve     | Moderado | Grave    | Muy grave |
+
+| #Orden | Problema                                                                 | Escala de Severidad | Heurística/Principio violada(o)       |
+|--------|--------------------------------------------------------------------------|---------------------|---------------------------------------|
+| 1      | Los usuarios quieren tener la opción de modo oscuro.                     | Media               | Consistencia y estándares             |
+| 2      | Los usuarios quieren tener el detalle de cada dispositivo.               | Alta                | Visibilidad del estado del sistema    |
+| 3      | Debe existir una opción de búsqueda en los cultivos.                     | Alta                | Flexibilidad y eficiencia de uso      |
+| 4      | Debe existir un switch para conectar o desconectar los dispositivos.      | Crítica             | Control y libertad del usuario        |
+
+**Heurísticas y Recomendaciones:**
+
+**Problema #1:** Los usuarios quieren tener la opción de modo oscuro  
+
+**Heurística violada:** Flexibilidad y eficiencia de uso  
+
+**Descripción del problema:** Actualmente la aplicación solo ofrece un tema claro, lo que causa fatiga visual en entornos con poca luz y reduce el tiempo de uso nocturno.  
+
+**Recomendación:** Implementar un interruptor de modo oscuro en el menú de configuración, con opción de activación automática según horario, utilizando una paleta de colores oscuros que cumpla con estándares de contraste WCAG (≥ 4.5:1 para texto).  
+
+![](assets/H1.png)
+
+---
+
+**Problema #2:** Los usuarios quieren tener el detalle de cada dispositivo 
+
+**Heurística violada:** Visibilidad del estado del sistema  
+
+**Descripción del problema:** La interfaz actual muestra solo listados básicos de dispositivos sin información técnica relevante (estado de conexión, batería, última actualización), obligando a los usuarios a usar otras aplicaciones complementarias.  
+
+**Recomendación:** Crear una vista detallada por dispositivo que incluya:  
+- Indicadores visuales de estado (online/offline)  
+- Métricas clave específicas por tipo de dispositivo  
+- Histórico de las últimas 5 lecturas  
+- Acceso rápido a manuales técnicos
+
+![](assets/H2.png)
+
+---
+
+**Problema #3:** Debe existir una opción de búsqueda en los cultivos  
+
+**Heurística violada:** Flexibilidad y eficiencia de uso  
+
+**Descripción del problema:** Los agricultores con +50 cultivos registrados pierden tiempo navegando en listados paginados para encontrar cultivos específicos, especialmente durante revisiones rápidas en campo.  
+
+**Recomendación:** Implementar:  
+1. Barra de búsqueda con filtros combinables (tipo de cultivo, fecha, estado)  
+2. Búsqueda por voz para uso con manos ocupadas  
+3. Historial de búsquedas recurrentes  
+4. Sugerencias durante la escritura
+
+![](assets/H3.png)
+
+---
+
+**Problema #4:** Debe existir un switch para conectar/desconectar dispositivos  
+
+**Heurística violada:** Control y libertad del usuario  
+
+**Descripción del problema:** La desconexión de dispositivos IoT requiere actualmente acceder a configuraciones avanzadas (3 niveles de profundidad), generando riesgos cuando se necesita aislamiento rápido por mal funcionamiento.  
+
+**Recomendación:** Añadir:  
+- Switches táctiles inmediatos en la tarjeta de cada dispositivo  
+- Confirmación modal para desconexión permanente  
+- Notificación push al restablecer conexión  
+- Registro en bitácora de cambios de estado
+
+![](assets/H4.png)
 
 
 ## 6.4. Video About-the-Product  
+
+**URL del Video About-the-Product:** <https://youtu.be/n0fJy7iPwlw>
+
+![](assets/About-the-Product.png)
 
 ---
 
