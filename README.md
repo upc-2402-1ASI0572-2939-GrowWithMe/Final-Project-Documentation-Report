@@ -279,6 +279,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Participé activamente como miembro del equipo, brindando apoyo constante en la elaboración y revisión de la documentación técnica y funcional del proyecto. Además, mantuvimos reuniones frecuentes entre los integrantes del equipo, lo que nos permitió alinear ideas, resolver dudas en conjunto y trabajar de manera más eficiente y coordinada.
             <br><br>TP1
             <br>Colaboré activamente en este proyecto mediante la creación de mockups, prototipos funcionales y el diseño de las vistas web. Mi aporte fue clave para construir una visión compartida del producto y facilitar el trabajo coordinado en base a entregables visuales validados por el equipo.
+            <br><br>TB2
+            <br>En esta entrega, he trabajado en equipo aplicando un liderazgo colaborativo, aportando activamente en el diseño de interfaces mediante mockups y wireframes, así como en el desarrollo del código para lograr la interacción y visualización en tiempo real de la aplicación. Además, realicé el desarrollo y simulación en Wokwi para validar el funcionamiento del hardware y su integración. Junto a mis compañeros, tomamos decisiones de manera conjunta, aplicando prácticas del IoT para asegurar una solución funcional, eficiente y centrada en la experiencia del usuario.
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> Durante el desarrollo de nuestro proyecto colaboré activamente a lo largo del mismo desarrollando las primeras versiones de las historias de usuario y el product backlog, el impact mapping, una de las entrevistas y los diagramas c4 Model contribuyendo con mi participación al equipo y desarrollar de manera eficaz y eficiente el proyecto.
@@ -318,6 +320,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Apoyé en la elaboración de la documentación técnica y de los diagramas de bounded context, participando activamente en reuniones con el equipo para alinear ideas y mejorar la eficiencia del trabajo conjunto.
             <br><br>TP1
             <br>Contribuí activamente en el entorno de trabajo colaborativo mediante la elaboración de mockups y prototipos que sirvieron como punto de referencia común para el equipo. Participé en reuniones donde alineamos ideas y planificamos avances, permitiendo mantener claridad sobre los objetivos visuales y técnicos del proyecto.
+            <br><br>TB2
+            <br>En esta entrega, colaboré en equipo ejerciendo un liderazgo participativo, contribuyendo de manera activa en la creación de interfaces a través de mockups y wireframes, además de desarrollar el código necesario para permitir la interacción y visualización en tiempo real de la aplicación. Junto a mis colegas, tomamos decisiones de forma consensuada, implementando prácticas de IoT para garantizar una solución funcional, eficiente y orientada a una experiencia de usuario óptima.
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> A lo largo del trabajo del proyecto he fomentado un entorno colaborativo e inclusivo dentro del equipo participando activamente en las tareas y revisando que ciertos puntos del trabajo fueran concretado aportando con las entrevistas  y digagramas del proyecto.
