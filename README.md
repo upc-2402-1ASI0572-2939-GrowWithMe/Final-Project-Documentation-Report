@@ -270,6 +270,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <br><br>
 		TP1<br>A lo largo del desarrollo de este trabajo, asumí un rol activo en la organización del equipo. Me encargué de segmentar las tareas relacionadas con las User Stories, diseñé mockups y wireflows, desarrollé el dashboard en el frontend y coordiné el despliegue del sistema. Estas acciones permitieron consolidar los avances técnicos y facilitar el trabajo conjunto del grupo.
 		<br><br>
+		TB2<br>
+En esta nueva etapa del proyecto, continué impulsando el trabajo colaborativo y el liderazgo compartido. Me enfoqué principalmente en el desarrollo del frontend, optimizando las vistas principales de la aplicación web y asegurando la integración fluida de nuevas funcionalidades propuestas durante el sprint. Además, seguí organizando y facilitando reuniones de seguimiento, lo que permitió coordinar los avances de cada integrante y resolver bloqueos de manera oportuna. Estas acciones contribuyeron a mantener el ritmo del equipo y garantizar la entrega de resultados alineados a los objetivos del proyecto.<br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
             <br><br>TP1
@@ -289,6 +291,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <br><br>TP1
             <br>Durante el desarrollo del proyecto, contribuí en la elaboración de mockups, el desarrollo del módulo de actividades del calendario en el frontend y la definición de los User Flows. Además, participé en la mejora continua del sistema, asegurando coherencia funcional y visual en los entregables.
             <br><br>
+		TB2<br>
+Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquitectura del sistema, analizando y ajustando los componentes para una mejor escalabilidad y mantenibilidad. Además, lideré sesiones de revisión técnica con el equipo para discutir mejoras estructurales y asegurar una visión técnica común. También participé activamente en el desarrollo de la aplicación móvil, coordinando la integración de nuevas funciones y colaborando en la resolución de desafíos técnicos durante el sprint. Esta labor permitió fortalecer la cohesión técnica y la calidad del producto entregado.<br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br><br>TP1
@@ -315,6 +319,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <br><br>TP1
             <br>Durante el desarrollo de este trabajo, fomenté un ambiente inclusivo en el equipo, donde cada integrante pudo expresar sus ideas y propuestas con libertad. Organicé la planificación de tareas clave, definí metas técnicas alcanzables y realicé seguimientos para asegurar el avance continuo del equipo. Gracias a esta organización, pudimos mantener una dinámica clara y eficiente en el desarrollo de funcionalidades y despliegue.
             <br><br>
+		TB2<br>
+En esta fase del proyecto, fomenté un entorno colaborativo e inclusivo dentro del equipo, asegurándome de que todos los integrantes participaran activamente y pudieran aportar sus ideas. Me enfoqué en establecer metas claras para el desarrollo del frontend y coordinar la planificación de tareas en conjunto con el equipo. Promoví la comunicación constante y la resolución de dudas, lo que permitió avanzar de manera alineada y cumplir los objetivos propuestos en el sprint. Gracias a la organización y al apoyo mutuo, logramos integrar nuevas funcionalidades y mantener la cohesión del grupo. <br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> A través del proceso de desarrollo de este proyecto he ayudado a crear un entorno colaborativo para lograr cumplir el objetivo en común. Es por eso que hemos logrado concluir las User Stories, los 10 pasos del Event Storming y una entrevista del segundo segmento objetivo.
             <br><br>TP1
@@ -334,6 +340,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <br><br>TP1
             <br>Durante este trabajo, me involucré de forma activa en distintas etapas del proyecto, promoviendo una comunicación abierta con mis compañeros. Planifiqué y desarrollé tareas relacionadas al calendario y la experiencia de usuario, verificando que los flujos definidos se ejecutaran correctamente y que se cumplieran los objetivos establecidos.
             <br><br>
+		TB2<br>
+Durante esta etapa, trabajé en crear un ambiente inclusivo donde cada miembro pudiera expresar sus propuestas y opiniones técnicas. Establecí metas conjuntas relacionadas con la mejora de la arquitectura del sistema y la implementación de nuevas funciones en la aplicación móvil. Participé en la planificación de tareas y coordiné reuniones periódicas para dar seguimiento al progreso. El enfoque colaborativo y la definición clara de objetivos nos permitieron cumplir eficientemente con las entregas previstas y mejorar la integración entre los distintos módulos del proyecto.<br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Fomenté un entorno colaborativo e inclusivo dentro del equipo, estableciendo metas claras, planificando tareas de manera estratégica y cumpliendo los objetivos propuestos. Esta experiencia fortaleció mis habilidades blandas en organización y liderazgo compartido, y permitió culminar con éxito el Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br><br>TP1
