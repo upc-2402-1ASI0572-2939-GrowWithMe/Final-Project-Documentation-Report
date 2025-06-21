@@ -300,6 +300,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
             <br><br>TP1
             <br>Durante el trabajo, elaboré lineamientos generales de estilo y definí guías específicas para las plataformas web, móvil e IoT. Gracias a esta estandarización, el equipo pudo mantener una identidad visual coherente en todas las interfaces del sistema.
+	<br><br>TB2
+            <br>Definí los elementos críticos de la versión móvil, asegurando que el desarrollo priorizara la experiencia del usuario. Mi rol fue decisivo para consolidar una visión compartida que resultó en una interfaz coherente, fácil de usar y técnicamente sólida.
         </td>
         <td>
           A lo largo del proyecto, el liderazgo compartido y la colaboración activa entre todos los integrantes permitieron cumplir con éxito las actividades clave como entrevistas, User Stories, Event Storming y la elaboración del Product Backlog. Cada miembro aportó desde sus fortalezas, fortaleciendo el trabajo en equipo y asegurando una visión común del proyecto.
@@ -343,6 +345,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
             <br><br>TP1
             <br>Durante este proyecto, propicié un entorno ordenado y colaborativo al definir las guías de estilo para las diferentes plataformas. Estas pautas facilitaron la planificación visual del sistema y permitieron al equipo trabajar con una base común, cumpliendo los objetivos establecidos con coherencia visual y técnica.
+		br><br>TB2
+            <br>Identifiqué y definí las funcionalidades clave de la versión mobile, lo que permitió guiar el desarrollo orientado a una experiencia de usuario optimizada. Su aporte fue fundamental para alinear al equipo en la construcción de una interfaz coherente, intuitiva y funcional para dispositivos móviles.
         </td>
         <td>
             Gracias a la planificación conjunta y a un ambiente de trabajo inclusivo, el equipo logró coordinarse eficazmente para alcanzar hitos clave del proyecto como las entrevistas, User Stories, Event Storming y el Product Backlog. Esta sinergia fue fundamental para avanzar con claridad hacia los objetivos establecidos.
@@ -2610,9 +2614,9 @@ Estado: En producción activa
 #### Mobile App
 Estado: En producción activa
 
-![image](assets/M1.png)
+![image](assets/M1.jpg)
 
-![image](assets/M2.png)
+![image](assets/M2.jpg)
 
 #### WOKWI
 
@@ -2673,14 +2677,6 @@ Despliegue del Backend
 
 ![alt text](assets/back.jpg)
 ![alt text](assets/back1.jpg)
-
-Link de landing page: https://growwithme-front-end.netlify.app/ 
-
-Link de web application: https://growwithme-front-end.netlify.app/ 
-
-Link de IoT: https://wokwi.com/projects/414805589981671425
-
-
 
 Landing Page: <https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/>
 
