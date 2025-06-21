@@ -2661,6 +2661,8 @@ A continuación, se presentan las preguntas que se utilizarán en las entrevista
 
 ### 6.3.2. Registro de Entrevistas 
 
+**URL de toodas la entrevistas de validación:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/Eb3LCSNQTt9OglV4C_FnnDkB1PNHt2oWXxfquY5gC1ELaw?e=cdcL5s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
 **Entrevista N°1:**
 
 ![](assets/EV1.png)
