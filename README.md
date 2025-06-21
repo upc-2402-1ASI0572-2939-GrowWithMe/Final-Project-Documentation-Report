@@ -2603,16 +2603,22 @@ Se accede a la página web - Frontend, desde la opción Aplicación cta.
 
 #### Frontend
 
-Versión Final
+Nueva Versión
 Estado: En producción activa
 ![image](assets/GWMFront.png)
+
+#### Mobile App
+Estado: En producción activa
+
+![image](assets/M1.png)
+
+![image](assets/M2.png)
 
 #### WOKWI
 
 Versión Final
 Estado: En producción activa
 ![image](assets/WOKWI.jpg)
-
 
 
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review
@@ -2653,6 +2659,12 @@ Posteriormente, se seleccionó la carpeta específica dentro de dist correspondi
 Una vez cargada, Netlify realizó el despliegue y generó el registro correspondiente, lo cual confirmó que la aplicación está correctamente publicada.
 
 Con ello, el avance correspondiente al Sprint 2 quedó exitosamente desplegado y accesible en línea.
+
+Landing Page: <https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/>
+
+FrontEnd: <https://growwithme-front-end.netlify.app/home>
+
+Wokwi: <https://wokwi.com/projects/414805589981671425>
 
 
 #### 6.2.2.9. Team Collaboration Insights during Sprint
@@ -2872,6 +2884,10 @@ Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante p
 
 # Anexos
 
-Video de la Exposición del TB1: https://shorturl.at/a8H6F
+**Video de la Exposición del TB1:** https://shorturl.at/a8H6F
 
-Video de la Exposición del Trabajo Parcial:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Video de la Exposición del Trabajo Parcial:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Video de la Exposición del TB2:** <>
+
+**Video About The Team:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EVtacPwo4OVKvGrMBO9vYmABMDwEZvt96oB9ikH7QHg-yQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JuuXgs>
