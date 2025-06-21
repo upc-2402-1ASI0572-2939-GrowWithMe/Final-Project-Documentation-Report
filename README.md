@@ -2609,8 +2609,6 @@ Estado: En producción activa
 
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
-s#### 6.2.2.7. Services Documentation Evidence for Sprint Review
-
 Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
 
 ## 📘 Endpoints de la API - Grow With Me
@@ -2647,10 +2645,6 @@ Posteriormente, se seleccionó la carpeta específica dentro de dist correspondi
 Una vez cargada, Netlify realizó el despliegue y generó el registro correspondiente, lo cual confirmó que la aplicación está correctamente publicada.
 
 Con ello, el avance correspondiente al Sprint 2 quedó exitosamente desplegado y accesible en línea.
-
-FRONT
-
-#### 6.2.2.8. Software Deployment Evidence for Sprint Review
 
 
 #### 6.2.2.9. Team Collaboration Insights during Sprint
