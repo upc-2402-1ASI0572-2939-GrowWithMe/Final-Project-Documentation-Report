@@ -289,7 +289,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br><br>TP1
             <br>Asumí un rol activo en el diseño del Dashboard y la redacción del Capítulo 6 del informe. Estas tareas me permitieron aportar desde una perspectiva organizativa y visual, apoyando la coordinación del equipo y la consolidación de entregables tanto técnicos como documentales.
-            <br><br>
+            <br><br>TB2
+	    <br>En esta entrega, he trabajado en equipo aplicando un liderazgo colaborativo, aportando activamente en el diseño de interfaces mediante mockups y wireframes, así como en el desarrollo del código para lograr la interacción y visualización en tiempo real de la aplicación. Junto a mis compañeros, tomamos decisiones de manera conjunta, aplicando prácticas del IoT para asegurar una solución funcional, eficiente y centrada en la experiencia del usuario.
+	    <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
             <br><br>TP1
@@ -326,7 +328,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Fomenté un entorno colaborativo e inclusivo dentro del equipo, estableciendo metas claras, planificando tareas de manera estratégica y cumpliendo los objetivos propuestos. Esta experiencia fortaleció mis habilidades blandas en organización y liderazgo compartido, y permitió culminar con éxito el Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br><br>TP1
             <br>Contribuí a establecer metas claras y a distribuir las tareas del equipo de manera organizada. Trabajé en la implementación del Dashboard y en el desarrollo documental, promoviendo un ambiente donde cada integrante sabía su responsabilidad y pudo cumplirla de forma colaborativa.
-            <br><br>
+            <br><br>TB2
+	    <br>En esta entrega, contribuí a crear un entorno colaborativo e inclusivo, donde cada integrante pudo expresar sus ideas y aportar desde su rol. Establecimos metas claras, planificamos tareas de forma organizada y trabajamos en conjunto para cumplir con los objetivos del proyecto de manera efectiva y alineada con nuestras prácticas en IoT.
+	    <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
             <br><br>TP1
