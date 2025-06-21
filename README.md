@@ -2681,6 +2681,18 @@ Jeyson encontró la landing page y la aplicación web bien estructuradas, con in
 
 **Entrevista N°2:**
 
+![](assets/)
+
+**Timing:** 
+
+**Nombre:** Juan Calisaya
+
+**Edad:** 21 años
+
+Juan expresó una opinión positiva sobre la aplicación Grow With Me, destacando su diseño bonito y minimalista. Consideró que la estética limpia y ordenada contribuye a una experiencia visual agradable y profesional. Además, resaltó que la interfaz es intuitiva, lo que facilita la navegación y permite al usuario comprender rápidamente cómo interactuar con la plataforma.
+
+El consultor también señaló que el flujo de uso es fluido y coherente, lo cual mejora la experiencia general del usuario. En su opinión, el diseño está bien alineado con las buenas prácticas de experiencia de usuario (UX) y diseño de interfaz (UI).
+
 **Entrevista N°3:**
 
 **Entrevista N°4:**
