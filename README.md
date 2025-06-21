@@ -2215,23 +2215,36 @@ El propósito de este sprint es sentar las bases para una buena experiencia de u
 
 - Implementación del Landing Page y Frontend acorde con las User Stories.
 - Como herramienta de control para este Sprint se utilizó Trello con un board exclusivo para esta iteración.
+  
+| Sprint # | Sprint         |                                  |                      |                                          |                                              |                    |                         |   |
+| -------- | -------------- | -------------------------------- | -------------------- | ---------------------------------------- | -------------------------------------------- | ------------------ | ----------------------- | - |
+|          | **User Story** |                                  | **Work-Item / Task** |                                          |                                              |                    |                         |   |
+|          | Id             | Title                            | Id                   | Title                                    | Description                                  | Estimation (Hours) | Assigned To / Status    |   |
+|          | US01           | Diseño informativo y atractivo   | T01                  | Maquetar landing visual                  | Maquetar página principal con Figma          | 5                  | Beth / ✅ Done           |   |
+|          |                |                                  | T02                  | Implementar estilos en frontend          | Aplicar estilos y branding según Figma       | 4                  | Beth / ✅ Done           |   |
+|          | US02           | Botones Call-to-Action           | T03                  | Implementar botones CTA                  | Añadir y enlazar botones a rutas funcionales | 4                  | Diego / ✅ Done          |   |
+|          |                |                                  | T04                  | Validar accesibilidad de CTA             | Asegurar contraste y tabulación correcta     | 3                  | Diego / ✅ Done          |   |
+|          | US04           | Gestionar cultivos               | T05                  | Crear formulario de cultivo              | Formulario para agregar/editar cultivos      | 3                  | Milagros / ✅ Done       |   |
+|          |                |                                  | T06                  | Implementar lógica de eliminación        | Eliminar cultivos y actualizar vista         | 3                  | Milagros / ✅ Done       |   |
+|          | US05           | Añadir actividad al calendario   | T07                  | Crear formulario de actividad            | UI + validación de datos para actividades    | 3                  | Anatoly / ✅ Done        |   |
+|          |                |                                  | T08                  | Integrar actividad con calendario        | Guardar actividad y refrescar vista          | 2                  | Anatoly / ✅ Done        |   |
+|          | US06           | Ver calendario de actividades    | T09                  | Mostrar vista de calendario              | Visualización de actividades por fecha       | 4                  | Anatoly / ✅ Done        |   |
+|          |                |                                  | T10                  | Filtrar actividades por cultivo          | Permitir filtrado dinámico en la vista       | 2                  | Anatoly / ✅ Done        |   |
+|          | US11           | Visualizar dashboard por cultivo | T11                  | Implementar gráficos KPIs                | Mostrar métricas clave por cultivo           | 4                  | Diego / ✅ Done          |   |
+|          |                |                                  | T12                  | Optimizar queries de datos               | Mejorar rendimiento de carga en dashboard    | 3                  | Diego / ✅ Done          |   |
+|          | US13           | Ver notificaciones               | T13                  | Mostrar alertas recientes                | Listar notificaciones de actividades         | 2                  | Milagros / 🧪 To-Review |   |
+|          |                |                                  | T14                  | Marcar notificaciones como leídas        | Cambiar estado al ser vistas                 | 2                  | Milagros / 🧪 To-Review |   |
+|          | US07           | Notificar tareas pendientes      | T15                  | Enviar recordatorios automáticos         | Notificar antes del vencimiento              | 3                  | Favio / ✅ Done          |   |
+|          |                |                                  | T16                  | Configurar notificaciones por usuario    | Preferencias y ajustes                       | 2                  | Favio / ✅ Done          |   |
+|          | US08           | Mostrar clima para cultivo       | T17                  | Consumir API de clima                    | Integrar datos de clima externo              | 3                  | Favio / To-do           |   |
+|          |                |                                  | T18                  | Visualizar clima en dashboard            | Mostrar información climática actual         | 2                  | Favio / To-do           |   |
+|          | US09           | Subir fotos de cultivo           | T19                  | Crear función de carga de imágenes       | Subir y almacenar imágenes                   | 3                  | Jean / To-do            |   |
+|          |                |                                  | T20                  | Mostrar galería de imágenes              | Visualizar fotos asociadas al cultivo        | 2                  | Jean / To-do            |   |
+|          | US10           | Exportar informes del cultivo    | T21                  | Generar PDF/Excel                        | Exportar datos en ambos formatos             | 4                  | Jean / ✅ Done           |   |
+|          |                |                                  | T22                  | Añadir descarga directa                  | Botón para descargar informes                | 2                  | Jean / ✅ Done           |   |
+|          | US12           | Ver recomendaciones por cultivo  | T23                  | Integrar sugerencias por IA              | Mostrar recomendaciones inteligentes         | 3                  | Beth / To-do            |   |
+|          |                |                                  | T24                  | Actualizar recomendaciones dinámicamente | Basado en nuevos datos                       | 3                  | Beth / To-do            |   |
 
-| Sprint # | Sprint |             |                   |              |                    |              |              |
-|----------|----------|-------------|-------------------|--------------|--------------------|--------------|--------------|
-|          | **User Story** |             | **Work-Item / Task** |              |                    |              |              |
-|          | Id       | Title       | Id                | Title        | Description        | Estimation (Hours) | Assigned To / Status (To-do / In-Process / To-Review / Done) |
-|       | US01  | Diseño informativo y atractivo         | T01  | Maquetar landing visual        | Maquetar página principal con Figma | 5                   | Beth / ✅ Done        |
-|       | US02  | Botones Call-to-Action                 | T02  | Implementar botones CTA        | Enlazar botones a rutas funcionales | 4                   | Diego / ✅ Done       |
-|       | US04  | Gestionar cultivos                     | T04  | Crear CRUD de cultivos         | Añadir, editar, eliminar cultivos   | 6                   | Milagros / ✅ Done         |
-|       | US05  | Añadir actividad al calendario         | T05  | Registrar actividad por cultivo| Formulario y validación de actividad| 5                   | Anatoly / ✅ Done          |
-|       | US06  | Ver calendario de actividades          | T06  | Mostrar vista calendario       | Visualización por fecha y cultivo   | 6                   | Anatoly / ✅ Done       |
-|       | US11  | Visualizar dashboard por cultivo       | T07  | Dashboard de producción        | KPIs por cultivo (gráficos)         | 7                   | Diego / ✅ Done    |
-|       | US13  | Ver notificaciones                     | T08  | Mostrar alertas al usuario     | Notificaciones recientes por actividad | 4               | Milagros / 🧪 To-Review     |
-|       | US07  | Notificar tareas pendientes            | T09  | Enviar recordatorios           | Alerta antes de vencimiento         | 5                   | Favio / ⏳ ✅ Done                            |
-|       | US08  | Mostrar clima para cultivo             | T10  | Consumir API clima             | Mostrar clima del día por cultivo   | 4                   | Favio / ⏳ To-do                           |
-|       | US09  | Subir fotos de cultivo                 | T11  | Carga de imágenes              | Subir imágenes a galería del cultivo| 4                   | Jean / ⏳ To-do                           |
-|       | US10  | Exportar informes del cultivo          | T12  | Generar PDF/Excel              | Exportar datos de actividades       | 6                   | Jean / ⏳ ✅ Done                            |
-|       | US12  | Ver recomendaciones por cultivo        | T13  | Mostrar sugerencias por IA     | Basado en datos de cultivo          | 6                   | Beth / ⏳ To-do                           |
 
 ![imagen](assets/Trello.png)
 Enlace del Trello: <https://trello.com/invite/b/682431943e65fbe7782d6a09/ATTIc8e7af88b359f84f3474e17d01281e194DDAA2B2/grow-with-me-product-backlog-tp-sprint-1>
