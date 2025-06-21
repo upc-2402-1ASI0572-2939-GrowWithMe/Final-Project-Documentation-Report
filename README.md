@@ -2648,17 +2648,39 @@ Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gest
 | GET    | `/api/v1/farmers/crops/{farmerId}`            | Obtiene todos los cultivos registrados por un agricultor específico    |
 
 #### 6.2.2.8. Software Deployment Evidence for Sprint Review
-Para el despliegue de la landing page se utilizó GitHub Pages, mientras que para la aplicación web se empleó Netlify. A continuación, se detallan los pasos seguidos durante el Sprint 2:
+La Landing Page fue desplegada utilizando GitHub Pages, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (main o gh-pages) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
 
-Se ejecutó el comando ng build desde la raíz del proyecto desarrollado en Angular, lo que generó los archivos compilados en la carpeta dist.
+![alt text](image.png)
 
-Se incorporó el archivo de configuración netlify.toml, el cual permite a Netlify interpretar correctamente las rutas del proyecto Angular. Este archivo contiene la configuración necesaria para gestionar el enrutamiento interno de la aplicación.
+Para el despliegue de la aplicación principal desarrollada en Angular, se optó por utilizar Netlify debido a su compatibilidad con integración continua y su sencilla configuración.
 
-Posteriormente, se seleccionó la carpeta específica dentro de dist correspondiente al nombre del proyecto para subirla a Netlify.
+El procedimiento seguido fue el siguiente:
 
-Una vez cargada, Netlify realizó el despliegue y generó el registro correspondiente, lo cual confirmó que la aplicación está correctamente publicada.
+1. Compilación del proyecto Angular
+Se ejecutó el comando ng build desde la raíz del proyecto, lo que generó los archivos estáticos necesarios dentro del directorio dist/.
 
-Con ello, el avance correspondiente al Sprint 2 quedó exitosamente desplegado y accesible en línea.
+2. Configuración del archivo netlify.toml
+Se creó un archivo netlify.toml para definir correctamente las reglas de redirección internas, permitiendo que las rutas gestionadas por Angular funcionen adecuadamente incluso al acceder directamente mediante URL.
+
+3. Publicación en Netlify
+Se especificó como carpeta de despliegue el subdirectorio dentro de dist/ correspondiente al nombre del proyecto. Una vez completado este paso, el sistema confirmó que el despliegue se realizó con éxito.
+
+Gracias a este proceso, el avance correspondiente al Sprint 2 quedó operativo y accesible públicamente para su revisión.
+
+![alt text](image-1.png)
+
+Despliegue del Backend
+
+![alt text](assets/back.jpg)
+![alt text](assets/back1.jpg)
+
+Link de landing page: https://growwithme-front-end.netlify.app/ 
+
+Link de web application: https://growwithme-front-end.netlify.app/ 
+
+Link de IoT: https://wokwi.com/projects/414805589981671425
+
+
 
 Landing Page: <https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/>
 
