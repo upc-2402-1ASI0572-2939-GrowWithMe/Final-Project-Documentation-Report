@@ -2609,6 +2609,47 @@ Estado: En producción activa
 
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
+s#### 6.2.2.7. Services Documentation Evidence for Sprint Review
+
+Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
+
+## 📘 Endpoints de la API - Grow With Me
+
+### 👨‍💼 Consultants (Gestión de consultores)
+
+| Método | Endpoint                          | Descripción                                             |
+|--------|-----------------------------------|---------------------------------------------------------|
+| GET    | `/api/v1/consultants`             | Obtiene la lista de todos los consultores              |
+| POST   | `/api/v1/consultants`             | Crea un nuevo consultor                                |
+| GET    | `/api/v1/consultants/{id}`        | Obtiene un consultor por su ID                         |
+
+---
+
+### 🌱 Crops (Gestión de cultivos)
+
+| Método | Endpoint                                      | Descripción                                                              |
+|--------|-----------------------------------------------|--------------------------------------------------------------------------|
+| PUT    | `/api/v1/farmers/crops/{cropId}`              | Actualiza un cultivo específico por su ID                               |
+| DELETE | `/api/v1/farmers/crops/{cropId}`              | Elimina un cultivo específico por su ID                                 |
+| GET    | `/api/v1/farmers/crops`                       | Obtiene la lista de todos los cultivos                                  |
+| POST   | `/api/v1/farmers/crops`                       | Crea un nuevo cultivo                                                   |
+| GET    | `/api/v1/farmers/crops/{farmerId}`            | Obtiene todos los cultivos registrados por un agricultor específico    |
+
+#### 6.2.2.8. Software Deployment Evidence for Sprint Review
+Para el despliegue de la landing page se utilizó GitHub Pages, mientras que para la aplicación web se empleó Netlify. A continuación, se detallan los pasos seguidos durante el Sprint 2:
+
+Se ejecutó el comando ng build desde la raíz del proyecto desarrollado en Angular, lo que generó los archivos compilados en la carpeta dist.
+
+Se incorporó el archivo de configuración netlify.toml, el cual permite a Netlify interpretar correctamente las rutas del proyecto Angular. Este archivo contiene la configuración necesaria para gestionar el enrutamiento interno de la aplicación.
+
+Posteriormente, se seleccionó la carpeta específica dentro de dist correspondiente al nombre del proyecto para subirla a Netlify.
+
+Una vez cargada, Netlify realizó el despliegue y generó el registro correspondiente, lo cual confirmó que la aplicación está correctamente publicada.
+
+Con ello, el avance correspondiente al Sprint 2 quedó exitosamente desplegado y accesible en línea.
+
+FRONT
+
 #### 6.2.2.8. Software Deployment Evidence for Sprint Review
 
 
