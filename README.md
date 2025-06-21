@@ -274,6 +274,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
             <br><br>TP1
             <br>Durante este proyecto, lideré el desarrollo del bounded context de dispositivos en el frontend y participé en la configuración del control de versiones usando buenas prácticas de Software Configuration Management. Esto permitió asegurar una estructura técnica ordenada que facilitó la colaboración entre los integrantes del equipo.
+            <br><br>TB2
+            <br>En esta entrega trabajé en equipo para poder unir todas las funcionalidades y ramas en el entorno del backend y frontend para así poder facilitar el despliegue de las mismas en la nube. Esto ayudará a que existan menos errores para la entrega posterior.
             <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
             TB1 <br> Participé activamente como miembro del equipo, brindando apoyo constante en la elaboración y revisión de la documentación técnica y funcional del proyecto. Además, mantuvimos reuniones frecuentes entre los integrantes del equipo, lo que nos permitió alinear ideas, resolver dudas en conjunto y trabajar de manera más eficiente y coordinada.
@@ -315,7 +317,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             TB1 <br> A través del proceso de desarrollo de este proyecto he ayudado a crear un entorno colaborativo para lograr cumplir el objetivo en común. Es por eso que hemos logrado concluir las User Stories, los 10 pasos del Event Storming y una entrevista del segundo segmento objetivo.
             <br><br>TP1
             <br>En este proyecto, aporté a la creación de un entorno colaborativo al coordinar los aspectos técnicos relacionados con el bounded context de dispositivos y la gestión del control de versiones. Esto facilitó una integración fluida del trabajo de todos los miembros, permitiéndonos cumplir objetivos específicos con orden y claridad.
-            <br><br>
+            <br><br>TB2
+            <br>En esta entrega ayudé a la implementación y corrección del backend y frontend del proyecto, ayudando a unir las ramas de mis compañeros y corrigiendo errores en la conexión entre backend y base de datos. Esto facilitará el despliegue del backend y la conexión entre frontend y backend.
+	<br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
             TB1 <br> Apoyé en la elaboración de la documentación técnica y de los diagramas de bounded context, participando activamente en reuniones con el equipo para alinear ideas y mejorar la eficiencia del trabajo conjunto.
             <br><br>TP1
