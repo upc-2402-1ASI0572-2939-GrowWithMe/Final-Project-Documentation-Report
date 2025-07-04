@@ -2383,35 +2383,38 @@ Imagen de los Insights de la Web App:
 ![image](assets/ing.png)
 
 ### 6.2.2. Sprint 2 
+
 #### 6.2.2.1. Sprint Planning 2 
 
-| Sprint # | 2 | 
-| - | - | 
-| **Sprint Planning Background** | - |
-| Date | 2025 - 06 - 20 |
-| Time | 2:00 PM |
-| Location | Virtual via Discord |
-| Prepared By | Acuña Gomez, Diego |
-| Attendees (to planning meeting) | Diego Acuña / Favio Landeo / Beth Oneglio / Milagros Tongo / Anatoly Noriega / Jean Morin |
-| Sprint 1 - Review Summary | 	Se desplego correctamente el Landing Page, nuestra Web Application y Mobile Application. Además, se integró una solución IoT a nuestros proyectos. Como grupo opinamos que se la información detallada es adecuada, sin embargo, existen mejoras por implementar. |
-| Sprint 1 - Retrospective Summary | Como equipo, hemos logrado desplegar con éxito el landing page, garantizando que la información sea precisa y las secciones estén bien estructuradas. Nuestra forma de trabajo ha sido altamente colaborativa, lo que nos ha permitido obtener buenos resultados. No obstante, identificamos que podemos fortalecer la confianza entre los miembros para mejorar aún más la dinámica del equipo. |
-| **Sprint Goal & User Stories** | - |
-| Sprint 2 Goal | Realizar últimos detalles del funcionamiento de la solución IoT integrada a nuestras aplicaciones. |
-| Sprint 2 - Velocity | El equipo puede aceptar 35 Story Points. |
-| Sprint 2 - Story Points | La suma de los Story Points de los User Stories que se atenderá es 62. |
+| Sprint # | 2 |
+|------------------------------|--------------------------------------------------------------|
+| **Sprint Planning Background** |                                                              |
+| **Date** | 2025 - 06 - 20 |
+| **Time** | 2:00 PM |
+| **Location** | Virtual vía Discord |
+| **Prepared By** | Acuña Gomez, Diego |
+| **Attendees (to planning meeting)** | Diego Acuña, Favio Landeo, Beth Oneglio, Milagros Tongo, Anatoly Noriega, Jean Morin. |
+| **Sprint 2 - Review Summary** | Se desplegó correctamente el Landing Page, nuestra Web Application y Mobile Application. Además, se integró una solución IoT a nuestros proyectos. Como grupo opinamos que la información detallada es adecuada, sin embargo, existen mejoras por implementar. |
+| **Sprint 2 - Retrospective Summary** | Como equipo, hemos logrado desplegar con éxito el landing page, garantizando que la información sea precisa y las secciones estén bien estructuradas. Nuestra forma de trabajo ha sido altamente colaborativa, lo que nos ha permitido obtener buenos resultados. No obstante, identificamos que podemos fortalecer la confianza entre los miembros para mejorar aún más la dinámica del equipo.<br>**Aspectos positivos:** Se logró desplegar exitosamente el landing page. La información en el sitio es precisa y bien estructurada. El trabajo colaborativo fue clave para obtener buenos resultados.<br>**Áreas de mejora:** Necesitamos fortalecer la confianza entre los miembros del equipo.<br>**Acciones a implementar:** Fomentar espacios de comunicación abierta y feedback constructivo. Realizar dinámicas breves de team building al inicio de cada reunión semanal. |
+| **Sprint Goal & User Stories** | **Sprint 2 Goal:** Realizar los últimos detalles del funcionamiento de la solución IoT integrada a nuestras aplicaciones.<br>
+ **Logros del Sprint:** Se desplegó satisfactoriamente el Landing Page. Se completó el desarrollo de la Web Application y Mobile Application. Se integró exitosamente la solución IoT a nuestras aplicaciones. |
+| **Sprint 2 - Velocity** | El equipo puede aceptar 35 Story Points. |
+| **Sprint 2 - Story Points** | La suma de los Story Points de los User Stories que se atenderá es 62. |
 
 #### 6.2.2.2. Aspect Leaders and Collaborators 
 
-| Team Member      | GitHub Username | Prototipo Wokwi <br> Features Leader (L)/Collaborator (C) | Frontend BC <br> Features Leader (L)/Collaborator (C) | Mobile BC <br> Features Leader (L)/Collaborator (C) | Backend <br> Features Leader (L)/Collaborator (C) |
-|------------------|-----------------|------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------|
-| Diego Acuña      | C               | C                                                    | L                                                        | C                                                             | C                                                        |
-| Favio Landeo     | C               | C                                                    | C                                                        | C                                                             | L                                                        |
-| Beth Oneglio     | C               | L                                                    | C                                                        | C                                                             | C                                                        |
-| Milagros Tongo   | C	             | C                                                    | C                                                        | L                                                             | C                                                        |
-| Anatoly Noriega  | C               | C                                                    | C                                                        | L                                                             | C                                                        |
-| Jean Morin       | L               | C                                                    | C                                                        | L                                                             | C                                                        |
+| **Team Member**     | **GitHub Username** | **Prototipo Wokwi**<br>(Líder: L / Colaborador: C) | **Frontend BC**<br>(Líder: L / Colaborador: C) | **Mobile BC**<br>(Líder: L / Colaborador: C) | **Backend**<br>(Líder: L / Colaborador: C) |
+|---------------------|---------------------|----------------------------------------------------|------------------------------------------------|------------------------------------------------|----------------------------------------------|
+| Diego Acuña         | C                   | C                                                  | **L**                                          | C                                              | C                                            |
+| Favio Landeo        | C                   | C                                                  | C                                              | C                                              | **L**                                        |
+| Beth Oneglio        | C                   | **L**                                              | C                                              | C                                              | C                                            |
+| Milagros Tongo      | C                   | C                                                  | C                                              | **L**                                          | C                                            |
+| Anatoly Noriega     | C                   | C                                                  | C                                              | **L**                                          | C                                            |
+| Jean Morin          | **L**               | C                                                  | C                                              | **L**                                          | C                                            |
 
 #### 6.2.2.3. Sprint Backlog 2  
+
+Optimización del Landing Page, desarrollo del Frontend (tanto web como móvil) e implementación del Backend e integración de la solución IoT, en alineación con las User Stories definidas.
 
 <table>
   <tr>
@@ -2441,7 +2444,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar POST (Registro)</td>
     <td valign="top">Crear endpoint para registro de agricultores con validación de datos.</td>
     <td valign="top">3 hours</td>
-    <td valign="top">Favio</td>
+    <td valign="top">Favio Landeo</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2449,7 +2452,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar PUT (Actualización)</td>
     <td valign="top">Desarrollar lógica para actualizar perfiles de agricultores.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Milagros</td>
+    <td valign="top">Milagros Tongo</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2457,7 +2460,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Pruebas unitarias</td>
     <td valign="top">Validar escenarios de registro y actualización.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Beth</td>
+    <td valign="top">Beth Oneglio</td>
     <td valign="top">Done</td>
   </tr>
 
@@ -2469,7 +2472,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar GET (Listado)</td>
     <td valign="top">Obtener lista de agricultores asignados a un consultor.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Diego</td>
+    <td valign="top">Diego Acuña</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2477,7 +2480,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar POST (Notificaciones)</td>
     <td valign="top">Enviar consultas a agricultores con notificación.</td>
     <td valign="top">3 hours</td>
-    <td valign="top">Jean</td>
+    <td valign="top">Jean Morin</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2485,7 +2488,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Integración con DB</td>
     <td valign="top">Conectar endpoints a base de datos.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Anatolky</td>
+    <td valign="top">Anatoly Noriega</td>
     <td valign="top">Done</td>
   </tr>
 
@@ -2497,7 +2500,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar POST (Registro)</td>
     <td valign="top">Permitir a agricultores registrar nuevos cultivos.</td>
     <td valign="top">3 hours</td>
-    <td valign="top">Favio</td>
+    <td valign="top">Favio Landeo</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2505,7 +2508,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar GET (Consulta)</td>
     <td valign="top">Recuperar detalles de cultivos por ID.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Diego</td>
+    <td valign="top">Diego Acuña</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2513,7 +2516,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Documentación Swagger</td>
     <td valign="top">Generar documentación API para este endpoint.</td>
     <td valign="top">1 hour</td>
-    <td valign="top">Milagros</td>
+    <td valign="top">Milagros Tongo</td>
     <td valign="top">Done</td>
   </tr>
 
@@ -2525,7 +2528,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar POST (Registro)</td>
     <td valign="top">Registrar dispositivos asociados a cultivos.</td>
     <td valign="top">3 hours</td>
-    <td valign="top">Favio</td>
+    <td valign="top">Favio Landeo</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2533,7 +2536,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar GET (Listado)</td>
     <td valign="top">Listar todos los dispositivos de un agricultor.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Diego</td>
+    <td valign="top">Diego Acuña</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2541,7 +2544,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Pruebas de integración</td>
     <td valign="top">Validar conexión con servicios IoT.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Anatoly</td>
+    <td valign="top">Anatoly Noriega</td>
     <td valign="top">Done</td>
   </tr>
 
@@ -2553,7 +2556,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar GET (Consulta)</td>
     <td valign="top">Obtener notificaciones por ID de usuario.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Favio</td>
+    <td valign="top">Favio Landeo</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2561,7 +2564,7 @@ Imagen de los Insights de la Web App:
     <td valign="top">Implementar PUT (Estado)</td>
     <td valign="top">Actualizar estado "leído" de notificaciones.</td>
     <td valign="top">2 hours</td>
-    <td valign="top">Favio</td>
+    <td valign="top">Favio Landeo</td>
     <td valign="top">Done</td>
   </tr>
   <tr>
@@ -2569,10 +2572,14 @@ Imagen de los Insights de la Web App:
     <td valign="top">Configurar Webhooks</td>
     <td valign="top">Integrar sistema de notificaciones en tiempo real.</td>
     <td valign="top">4 hours</td>
-    <td valign="top">Diego</td>
+    <td valign="top">Diego Acuña</td>
     <td valign="top">Done</td>
   </tr>
 </table>
+
+Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma ágil y colaborativa durante este sprint y los siguientes. Como resultado, se definieron tareas para el sprint actual.
+
+*Imagen de Trello y enlace*
 
 #### 6.2.2.4. Development Evidence for Sprint Review
 
@@ -2605,50 +2612,81 @@ En esta sección mostramos los commits realizados durante el desarrollo del proy
 | Mobile-GrowWithMe | main   | c283882   | feat: add activity form                             |                     | 17/06/2025          |
 | Mobile-GrowWithMe | main   | 92c5c36   | feat: add calendar component                        |                     | 17/06/2025          |
 
+
+Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+
+Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
+
+Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+
+Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
+
+Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GROWITHME-WOKWI
+
 #### 6.2.2.5. Testing Suite Evidence for Sprint Review
 
-| Repository         | Branch           | Commit Id | Commit Message             | Commit Message Body | Commited on (Date) |
-|--------------------|------------------|-----------|----------------------------|----------------------|--------------------|
-| acceptance-test-IoT | test/UserStories | a5cf2ec   | Acceptance_test_09.feature | -                    | 20/06/2025         |
-| acceptance-test-IoT | test/UserStories | 54c373c   | Acceptance_test_10.feature | -                    | 20/06/2025          |
-| acceptance-test-IoT | test/UserStories | 2bfd92c   | Acceptance_test_11.feature | -                    | 20/06/2025          |
-| acceptance-test-IoT | test/UserStories | 97475fc   | Acceptance_test_12.feature | -                    | 20/06/2025          |
-| acceptance-test-IoT | test/UserStories | 42323ae   | Acceptance_test_13.feature | -                    | 20/06/2025          |
+| **Repository**          | **Branch**           | **Commit ID** | **Commit Message**              | **Commit Description** | **Committed On (Date)** |
+|-------------------------|----------------------|----------------|----------------------------------|--------------------------|--------------------------|
+| acceptance-test-IoT     | test/UserStories     | a5cf2ec        | Acceptance_test_09.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 54c373c        | Acceptance_test_10.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 2bfd92c        | Acceptance_test_11.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 97475fc        | Acceptance_test_12.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 42323ae        | Acceptance_test_13.feature       | -                        | 20/06/2025               |
+
+Enlace Repositorio Testing: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Testing-GrowWithMe
 
 #### 6.2.2.6. Execution Evidence for Sprint Review  
 
 En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
 
-Landing page
+#### Landing Page
 
 Versión Final
 Estado: En producción activa
 Se accede a la página web - Frontend, desde la opción Aplicación cta.
-![image](assets/GWMLP.png)
 
-#### Frontend
+![image](assets/GWMLP.png)
+*Más imágenes*
+
+*Enlace del Video:*
+
+#### Front-End
 
 Nueva Versión
 Estado: En producción activa
+
 ![image](assets/GWMFront.png)
+*Más imágenes*
+
+*Enlace del Video:*
 
 #### Mobile App
+
 Estado: En producción activa
 
 ![image](assets/M1.jpg)
 
 ![image](assets/M2.jpg)
+*Más imágenes*
 
-#### WOKWI
+*Enlace del Video:*
+
+#### Wokwi
 
 Versión Final
-Estado: En producción activa
-![image](assets/WOKWI.jpg)
 
+Estado: En producción activa
+
+![image](assets/WOKWI.jpg)
+*Más imágenes*
+
+*Enlace del Video:*
 
 #### 6.2.2.7. Services Documentation Evidence for Sprint Review
 
 Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gestionar usuarios, entregas, servicios, incidentes, rutas seguras, historial y publicaciones dentro del sistema. Cada endpoint cumple una función específica en la arquitectura del backend.
+
+*Imágenes del Backend*
 
 ## 📘 Endpoints de la API - Grow With Me
 
@@ -2673,6 +2711,7 @@ Para el Sprint 2, se definieron los siguientes endpoints clave que permiten gest
 | GET    | `/api/v1/farmers/crops/{farmerId}`            | Obtiene todos los cultivos registrados por un agricultor específico    |
 
 #### 6.2.2.8. Software Deployment Evidence for Sprint Review
+
 La Landing Page fue desplegada utilizando GitHub Pages, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (main o gh-pages) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
 
 ![alt text](image.png)
@@ -2694,17 +2733,29 @@ Gracias a este proceso, el avance correspondiente al Sprint 2 quedó operativo y
 
 ![alt text](image-1.png)
 
-Despliegue del Backend
+#### Despliegue del Backend:
 
 ![alt text](assets/back.jpg)
 ![alt text](assets/back1.jpg)
 
-Landing Page: <https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/>
+#### Landing Page: 
+https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
 
-FrontEnd: <https://growwithme-front-end.netlify.app/home>
+#### Front-End: 
+https://growwithme-front-end.netlify.app/home
 
-Wokwi: <https://wokwi.com/projects/414805589981671425>
+#### Wokwi: 
+https://wokwi.com/projects/414805589981671425
 
+Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+
+Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
+
+Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+
+Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
+
+Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GROWITHME-WOKWI
 
 #### 6.2.2.9. Team Collaboration Insights during Sprint
 
@@ -2719,11 +2770,11 @@ En esta sección, presentaremos los hallazgos de nuestro equipo para evaluar los
 | Oneglio De Paz, Beth Shantal                       | Desarrollo de mejora continua al frontend.                                                        |
 | Tongo Alejandro, Milagros Salet                    | Desarrollo de la app mobile.                                                                      |
  
-Imagen de los Insights del frotend:
+Imagen de los Insights del Front-End:
 
 ![image](assets/ing.png)
 
-Imagen de los Insights de la app mobile:
+Imagen de los Insights de la APP Mobile:
 
 ![image](assets/ing.png)
 
@@ -2731,29 +2782,30 @@ Imagen de los Insights del Backend:
 
 ![image](assets/ing.png)
 
-## 6.3. Entrevistas de Validación  
+## 6.3. Entrevistas de Validación
+
 ### 6.3.1. Diseño de Entrevistas  
 
 A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la facilidad de uso de la aplicación actual. Estas preguntas están orientadas a examinar las heurísticas de usabilidad y obtener datos importantes sobre la experiencia del usuario.
 
 1. **"¿Entiendes fácilmente lo que significa cada función?"**  
    *Objetivo:* Evaluar claridad en el diseño de interfaz y correspondencia con el modelo mental del usuario.
-
+<br>
 2. **"¿Los botones hacen lo que esperas en cada pantalla?"**  
    *Objetivo:* Verificar consistencia en la interacción y cumplimiento de expectativas de acción.
-
+<br>
 3. **"¿La app te avisa antes de borrar algo importante?"**  
    *Objetivo:* Analizar prevención de errores críticos y manejo de acciones irreversibles.
-
+<br>
 4. **"¿Los gráficos y números son fáciles de entender?"**  
    *Objetivo:* Evaluar efectividad en visualización de datos para toma de decisiones agrícolas.
-
+<br>
 5. **"¿Los colores y letras son fáciles de ver bajo la luz del sol?"**  
    *Objetivo:* Testear legibilidad en condiciones reales de trabajo en campo.
-
+<br>
 6. **"Comparado con llevar registros en papel, ¿esto es más fácil?"**  
    *Objetivo:* Medir valor agregado frente a métodos tradicionales (benchmark de usabilidad).
-
+<br>
 7. **"¿Qué fue lo más difícil de hacer en la app?"**  
    *Objetivo:* Identificar puntos críticos de fricción en el flujo de usuario.
 
@@ -2880,7 +2932,6 @@ Aplicación para evaluar: GrowWithMe
 
 ![](assets/H4.png)
 
-
 ## 6.4. Video About-the-Product  
 
 **URL del Video About-the-Product:** <https://youtu.be/n0fJy7iPwlw>
@@ -2905,6 +2956,8 @@ Por otro lado, se ha demostrado la importancia de contar con una gestión de ver
 
 Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante para alcanzar los objetivos del proyecto. La colaboración activa entre los integrantes permitió distribuir tareas de manera estratégica, aprovechar fortalezas individuales y mantener una comunicación constante que garantizó la calidad y coherencia en cada entrega.
 
+TB2: Durante este sprint se mejoró el Landing Page, se avanzó en el desarrollo del frontend web y móvil, y se implementaron funcionalidades clave del backend e integración IoT, todo alineado con las User Stories definidas. Se utilizaron herramientas como Trello para la gestión ágil de tareas, alcanzando tareas asignadas. Además, se realizaron pruebas de aceptación mediante archivos .feature registrados en el repositorio correspondiente.
+
 # Bibliografía
 
   Brandolini, A. (2019). Introducing EventStorming: An act of deliberate discovery. Leanpub.
@@ -2923,10 +2976,26 @@ Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante p
 
 # Anexos
 
-**Video de la Exposición del TB1:** https://shorturl.at/a8H6F
+Video de la Exposición del TB1:
+https://shorturl.at/a8H6F
 
-**Video de la Exposición del Trabajo Parcial:**  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video de la Exposición del Trabajo Parcial:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Video de la Exposición del TB2:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+Video de la Exposición del TB2:
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EeG7i5ZfYutEusYhi8cHsDcBB6MxNV_oAvZ4-hCXmNSxxw?e=7LRJ6Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
-**Video About The Team:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EVtacPwo4OVKvGrMBO9vYmABMDwEZvt96oB9ikH7QHg-yQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JuuXgs>
+Video About The Team:
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EVtacPwo4OVKvGrMBO9vYmABMDwEZvt96oB9ikH7QHg-yQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JuuXgs>
+
+Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+
+Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
+
+Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+
+Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
+
+Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GROWITHME-WOKWI
+
+Video About The Team: https://www.youtube.com/watch?v=I26qnwOH_r8&ab_channel=MilyTongo
