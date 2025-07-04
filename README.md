@@ -262,7 +262,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <th style="text-align:center;">Conclusiones</th>
     </tr>
     <tr>
-        <td align="center">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+        <td align="center">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
         <td>
             <strong>Acuña Gomez, Diego Jose</strong> <br>
             <br>
@@ -299,6 +299,8 @@ Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquite
             <br>Asumí un rol activo en el diseño del Dashboard y la redacción del Capítulo 6 del informe. Estas tareas me permitieron aportar desde una perspectiva organizativa y visual, apoyando la coordinación del equipo y la consolidación de entregables tanto técnicos como documentales.
             <br><br>TB2
 	    <br>En esta entrega, he trabajado en equipo aplicando un liderazgo colaborativo, aportando activamente en el diseño de interfaces mediante mockups y wireframes, así como en el desarrollo del código para lograr la interacción y visualización en tiempo real de la aplicación. Junto a mis compañeros, tomamos decisiones de manera conjunta, aplicando prácticas del IoT para asegurar una solución funcional, eficiente y centrada en la experiencia del usuario.
+	    <br><br>TF
+	    <br>Junto a mi equipo, asumimos el liderazgo colaborativo para implementar las correcciones del TB2 y completar satisfactoriamente todos los requerimientos de esta entrega.
 	    <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
@@ -348,6 +350,8 @@ Durante esta etapa, trabajé en crear un ambiente inclusivo donde cada miembro p
             <br>Contribuí a establecer metas claras y a distribuir las tareas del equipo de manera organizada. Trabajé en la implementación del Dashboard y en el desarrollo documental, promoviendo un ambiente donde cada integrante sabía su responsabilidad y pudo cumplirla de forma colaborativa.
             <br><br>TB2
 	    <br>En esta entrega, contribuí a crear un entorno colaborativo e inclusivo, donde cada integrante pudo expresar sus ideas y aportar desde su rol. Establecimos metas claras, planificamos tareas de forma organizada y trabajamos en conjunto para cumplir con los objetivos del proyecto de manera efectiva y alineada con nuestras prácticas en IoT.
+            <br><br>TF
+	    <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
 	    <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
