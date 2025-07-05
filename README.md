@@ -2849,6 +2849,50 @@ Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review
+La Landing Page fue desplegada utilizando GitHub Pages, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (main o gh-pages) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
+
+![alt text](image.png)
+
+Para el despliegue de la aplicación principal desarrollada en Angular, se optó por utilizar Netlify debido a su compatibilidad con integración continua y su sencilla configuración.
+
+El procedimiento seguido fue el siguiente:
+
+1. Compilación del proyecto Angular
+Se ejecutó el comando ng build desde la raíz del proyecto, lo que generó los archivos estáticos necesarios dentro del directorio dist/.
+
+2. Configuración del archivo netlify.toml
+Se creó un archivo netlify.toml para definir correctamente las reglas de redirección internas, permitiendo que las rutas gestionadas por Angular funcionen adecuadamente incluso al acceder directamente mediante URL.
+
+3. Publicación en Netlify
+Se especificó como carpeta de despliegue el subdirectorio dentro de dist/ correspondiente al nombre del proyecto. Una vez completado este paso, el sistema confirmó que el despliegue se realizó con éxito.
+
+Gracias a este proceso, el avance correspondiente al Sprint 2 quedó operativo y accesible públicamente para su revisión.
+
+![alt text](image-1.png)
+
+#### Despliegue del Backend:
+
+![alt text](assets/back.jpg)
+![alt text](assets/back1.jpg)
+
+#### Landing Page: 
+https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
+
+#### Front-End: 
+https://growwithme-front-end.netlify.app/home
+
+#### Wokwi: 
+https://wokwi.com/projects/414805589981671425
+
+Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+
+Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
+
+Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+
+Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
+
+Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GROWITHME-WOKWI
 
 #### 6.2.3.9. Team Collaboration Insights during Sprint
 
