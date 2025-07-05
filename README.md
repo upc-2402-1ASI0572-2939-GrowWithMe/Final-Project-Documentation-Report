@@ -2967,6 +2967,17 @@ El consultor también señaló que el flujo de uso es fluido y coherente, lo cua
 
 **Entrevista N°3:**
 
+
+![image](entrevista3-diego.png)
+
+**Timing:** 10:30
+**Nombre:** Gabriela Nomberto
+**Edad:** 21 años
+
+Gabriela Nomberto compartió una opinión favorable sobre la aplicación Grow With Me, resaltando su diseño atractivo y sobrio. Destacó que la estética limpia y bien estructurada aporta una sensación de profesionalismo y hace que la experiencia visual sea agradable. También mencionó que la interfaz resulta clara e intuitiva, lo que facilita al usuario entender rápidamente cómo interactuar con la plataforma.
+
+Además, Gabriela valoró positivamente la fluidez del recorrido del usuario, indicando que el flujo de uso está bien definido y se siente natural. En su evaluación, el diseño refleja un buen manejo de los principios de experiencia de usuario (UX) y diseño de interfaz (UI), logrando una interacción eficaz y amigable.
+
 **Entrevista N°4:**
 
 **Entrevista N°5:**
