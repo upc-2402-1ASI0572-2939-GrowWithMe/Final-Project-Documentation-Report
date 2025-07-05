@@ -234,6 +234,16 @@ Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Fin
       - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
       - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
       - [6.2.2.9. Team Collaboration Insights during Sprints](#6229-team-collaboration-insights-during-sprints)
+    - [6.2.3. Sprint 3](#622-sprint-2)
+      - [6.2.3.1. Sprint Planning 2](#6231-sprint-planning-2)
+      - [6.2.3.2. Aspect Leaders and Collaborators](#6232-aspect-leaders-and-collaborators)
+      - [6.2.3.3. Sprint Backlog 2](#6233-sprint-backlog-2)
+      - [6.2.3.4. Development Evidence for Sprint Review](#6234-development-evidence-for-sprint-review)
+      - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6235-testing-suite-evidence-for-sprint-review)
+      - [6.2.3.6. Execution Evidence for Sprint Review](#6236-execution-evidence-for-sprint-review)
+      - [6.2.3.7. Services Documentation Evidence for Sprint Review](#6237-services-documentation-evidence-for-sprint-review)
+      - [6.2.3.8. Software Deployment Evidence for Sprint Review](#6238-software-deployment-evidence-for-sprint-review)
+      - [6.2.3.9. Team Collaboration Insights during Sprints](#6239-team-collaboration-insights-during-sprints)
   - [6.3. Validation Interviews](#63-validation-interviews)
     - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
     - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
@@ -2583,7 +2593,9 @@ Optimización del Landing Page, desarrollo del Frontend (tanto web como móvil) 
 
 Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma ágil y colaborativa durante este sprint y los siguientes. Como resultado, se definieron tareas para el sprint actual.
 
-*Imagen de Trello y enlace*
+![image](assets/TrelloS2.png)
+
+<https://trello.com/invite/b/6868b3035918f7016b8226ec/ATTI12d3fddb49d07a533e53deeaa5d584db4B45E5F7/grow-with-me-product-backlog-tp-sprint-2>
 
 #### 6.2.2.4. Development Evidence for Sprint Review
 
@@ -2786,6 +2798,61 @@ Imagen de los Insights del Backend:
 
 ![image](assets/ing.png)
 
+### 6.2.3. Sprint 3 
+
+#### 6.2.3.1. Sprint Planning 3 
+
+| Sprint # | 3 |
+|------------------------------|--------------------------------------------------------------|
+| **Sprint Planning Background** |                                                              |
+| **Date** | 2025 - 07 - 01 |
+| **Time** | 8:00 PM |
+| **Location** | Virtual vía Discord |
+| **Prepared By** | Tongo Alajandro, Milagros |
+| **Attendees (to planning meeting)** | Diego Acuña, Favio Landeo, Beth Oneglio, Milagros Tongo, Anatoly Noriega, Jean Morin. |
+| **Sprint 3 - Review Summary** | Se desplegó correctamente el Landing Page, nuestra Web Application y Mobile Application. Además, se integró una solución IoT a nuestros proyectos. Como grupo opinamos que la información detallada es adecuada, sin embargo, existen mejoras por implementar. |
+| **Sprint 3 - Retrospective Summary** | Como equipo, hemos logrado desplegar con éxito el landing page, garantizando que la información sea precisa y las secciones estén bien estructuradas. Nuestra forma de trabajo ha sido altamente colaborativa, lo que nos ha permitido obtener buenos resultados. No obstante, identificamos que podemos fortalecer la confianza entre los miembros para mejorar aún más la dinámica del equipo.<br>**Aspectos positivos:** Se logró desplegar exitosamente el landing page. La información en el sitio es precisa y bien estructurada. El trabajo colaborativo fue clave para obtener buenos resultados.<br>**Áreas de mejora:** Necesitamos fortalecer la confianza entre los miembros del equipo.<br>**Acciones a implementar:** Fomentar espacios de comunicación abierta y feedback constructivo. Realizar dinámicas breves de team building al inicio de cada reunión semanal. |
+| **Sprint Goal & User Stories** | **Sprint 3 Goal:** El objetivo de este proyecto es desarrollar, implementar y documentar completamente el prototipo funcional de nuestra applicación utilizando tecnología IoT, entregando un informe final actualizado con todos los capítulos requeridos (incluyendo Sprint 3, conclusiones y anexos), una presentación Keynote ejecutiva, un reporte de desempeño individual evaluado por el líder del equipo, y un archivo .zip con los artefactos finales (código mejorado, videos demostrativos y documentos complementarios), demostrando así el cumplimiento de todas las etapas del ciclo de vida del proyecto, el trabajo colaborativo del equipo y la aplicación efectiva de los conocimientos adquiridos en el curso.<br>
+ **Logros del Sprint:** Se desplegó satisfactoriamente el Landing Page. Se completó el desarrollo de la Web Application y Mobile Application. Se integró exitosamente la solución IoT a nuestras aplicaciones. |
+| **Sprint 3 - Velocity** | El equipo puede aceptar 30 Story Points. |
+| **Sprint 3 - Story Points** | La suma de los Story Points de los User Stories que se atenderá es 47. |
+
+#### 6.2.3.2. Aspect Leaders and Collaborators 
+
+| **Team Member**     | **GitHub Username** | **Prototipo Wokwi**<br>(Líder: L / Colaborador: C) | **Frontend BC**<br>(Líder: L / Colaborador: C) | **Mobile BC**<br>(Líder: L / Colaborador: C) | **Backend**<br>(Líder: L / Colaborador: C) |
+|---------------------|---------------------|----------------------------------------------------|------------------------------------------------|------------------------------------------------|----------------------------------------------|
+| Diego Acuña         | C                   | C                                                  | **L**                                          | C                                              | C                                            |
+| Favio Landeo        | C                   | C                                                  | C                                              | C                                              | **L**                                        |
+| Beth Oneglio        | C                   | **L**                                              | C                                              | C                                              | C                                            |
+| Milagros Tongo      | C                   | C                                                  | C                                              | **L**                                          | C                                            |
+| Anatoly Noriega     | C                   | C                                                  | C                                              | **L**                                          | C                                            |
+| Jean Morin          | **L**               | C                                                  | C                                              | **L**                                          | C                                            |
+
+#### 6.2.3.3. Sprint Backlog 3  
+
+Optimización del Landing Page, desarrollo del Frontend (tanto web como móvil) e implementación final del Backend e integración de la solución IoT, en alineación con las User Stories definidas.
+
+<table> <tr> <th valign="top"><b>Sprint #</b></th> <th colspan="7" valign="top"><b>Sprint Final – Completar App Web/Mobile & IoT</b></th> </tr> <tr> <td colspan="2" valign="top"><b>User Story</b></td> <td colspan="6" valign="top"><b>Work – Item / Task</b></td> </tr> <tr> <td valign="top"><b>Id</b></td> <td valign="top"><b>Title</b></td> <td valign="top"><b>Id</b></td> <td valign="top"><b>Title</b></td> <td valign="top"><b>Description</b></td> <td valign="top"><b>Estimation (Hours)</b></td> <td valign="top"><b>Assigned To</b></td> <td valign="top"><b>Status</b></td> </tr> <!-- Conectar dispositivos IoT (US07) --> <tr> <td rowspan="3" valign="top"><b>US07</b></td> <td rowspan="3" valign="top">Conectar dispositivos IoT</td> <td valign="top">TK16</td> <td valign="top">Integración API IoT</td> <td valign="top">Conectar frontend con endpoints de dispositivos IoT.</td> <td valign="top">5 hours</td> <td valign="top">Favio Landeo</td> <td valign="top">In Progress</td> </tr> <tr> <td valign="top">TK17</td> <td valign="top">Diseño UI Dispositivos</td> <td valign="top">Crear interfaz para gestión de dispositivos en web/mobile.</td> <td valign="top">4 hours</td> <td valign="top">Milagros Tongo</td> <td valign="top">To Do</td> </tr> <tr> <td valign="top">TK18</td> <td valign="top">Pruebas conexión IoT</td> <td valign="top">Validar flujo completo de conexión con dispositivos reales.</td> <td valign="top">3 hours</td> <td valign="top">Anatoly Noriega</td> <td valign="top">To Do</td> </tr> <!-- Visualizar dashboard por cultivo (US11) --> <tr> <td rowspan="3" valign="top"><b>US11</b></td> <td rowspan="3" valign="top">Visualizar dashboard por cultivo</td> <td valign="top">TK19</td> <td valign="top">Componente Gráficos</td> <td valign="top">Implementar gráficos para datos de sensores (Chart.js).</td> <td valign="top">6 hours</td> <td valign="top">Jean Morin</td> <td valign="top">In Progress</td> </tr> <tr> <td valign="top">TK20</td> <td valign="top">Diseño Responsive</td> <td valign="top">Asegurar visualización correcta en móvil y web.</td> <td valign="top">4 hours</td> <td valign="top">Beth Oneglio</td> <td valign="top">To Do</td> </tr> <tr> <td valign="top">TK21</td> <td valign="top">Integración API Datos</td> <td valign="top">Conectar con endpoints de datos en tiempo real.</td> <td valign="top">5 hours</td> <td valign="top">Diego Acuña</td> <td valign="top">In Progress</td> </tr> <!-- Exportar dashboards (US12) --> <tr> <td rowspan="2" valign="top"><b>US12</b></td> <td rowspan="2" valign="top">Exportar dashboards</td> <td valign="top">TK22</td> <td valign="top">Generación PDF</td> <td valign="top">Implementar librería para exportar a PDF (jsPDF).</td> <td valign="top">4 hours</td> <td valign="top">Favio Landeo</td> <td valign="top">To Do</td> </tr> <tr> <td valign="top">TK23</td> <td valign="top">Personalización Reporte</td> <td valign="top">Permitir seleccionar rango de fechas para exportar.</td> <td valign="top">3 hours</td> <td valign="top">Milagros Tongo</td> <td valign="top">To Do</td> </tr> <!-- Ver calendario de actividades (US06) --> <tr> <td rowspan="2" valign="top"><b>US06</b></td> <td rowspan="2" valign="top">Ver calendario de actividades</td> <td valign="top">TK24</td> <td valign="top">Componente Calendario</td> <td valign="top">Integrar FullCalendar con eventos dinámicos.</td> <td valign="top">5 hours</td> <td valign="top">Jean Morin</td> <td valign="top">In Progress</td> </tr> <tr> <td valign="top">TK25</td> <td valign="top">Sincronización Mobile</td> <td valign="top">Garantizar funcionalidad en versión móvil.</td> <td valign="top">3 hours</td> <td valign="top">Beth Oneglio</td> <td valign="top">To Do</td> </tr> <!-- Enviar consultas a consultor (US16) --> <tr> <td rowspan="2" valign="top"><b>US16</b></td> <td rowspan="2" valign="top">Enviar consultas a consultor</td> <td valign="top">TK26</td> <td valign="top">Formulario Chat</td> <td valign="top">Implementar UI para envío de consultas.</td> <td valign="top">3 hours</td> <td valign="top">Milagros Tongo</td> <td valign="top">To Do</td> </tr> <tr> <td valign="top">TK27</td> <td valign="top">Integración Notificaciones</td> <td valign="top">Conectar con endpoint de notificaciones.</td> <td valign="top">2 hours</td> <td valign="top">Diego Acuña</td> <td valign="top">To Do</td> </tr> <!-- Recibir dashboards de agricultores (US21) --> <tr> <td rowspan="2" valign="top"><b>US21</b></td> <td rowspan="2" valign="top">Recibir dashboards de agricultores</td> <td valign="top">TK28</td> <td valign="top">Vista Consultor</td> <td valign="top">Crear pantalla de visualización para consultores.</td> <td valign="top">4 hours</td> <td valign="top">Beth Oneglio</td> <td valign="top">To Do</td> </tr> <tr> <td valign="top">TK29</td> <td valign="top">Filtros Avanzados</td> <td valign="top">Implementar filtros por cultivo/fechas.</td> <td valign="top">3 hours</td> <td valign="top">Anatoly Noriega</td> <td valign="top">To Do</td> </tr> </table>
+
+Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma ágil y colaborativa durante este sprint y los siguientes. Como resultado, se definieron tareas para el sprint actual.
+
+![image](assets/TrelloS3.png)
+
+<https://trello.com/invite/b/6868b50b11cb4d32d99936af/ATTIbb56f495237ce9aeb8046c585d2b7a400E410C34/grow-with-me-product-backlog-tp-sprint-3>
+
+#### 6.2.3.4. Development Evidence for Sprint Review
+
+#### 6.2.3.5. Testing Suite Evidence for Sprint Review
+
+#### 6.2.3.6. Execution Evidence for Sprint Review  
+
+#### 6.2.3.7. Services Documentation Evidence for Sprint Review
+
+#### 6.2.3.8. Software Deployment Evidence for Sprint Review
+
+#### 6.2.3.9. Team Collaboration Insights during Sprint
+
+
 ## 6.3. Entrevistas de Validación
 
 ### 6.3.1. Diseño de Entrevistas  
@@ -2794,22 +2861,22 @@ A continuación, se presentan las preguntas que se utilizarán en las entrevista
 
 1. **"¿Entiendes fácilmente lo que significa cada función?"**  
    *Objetivo:* Evaluar claridad en el diseño de interfaz y correspondencia con el modelo mental del usuario.
-<br>
+
 2. **"¿Los botones hacen lo que esperas en cada pantalla?"**  
    *Objetivo:* Verificar consistencia en la interacción y cumplimiento de expectativas de acción.
-<br>
+
 3. **"¿La app te avisa antes de borrar algo importante?"**  
    *Objetivo:* Analizar prevención de errores críticos y manejo de acciones irreversibles.
-<br>
+
 4. **"¿Los gráficos y números son fáciles de entender?"**  
    *Objetivo:* Evaluar efectividad en visualización de datos para toma de decisiones agrícolas.
-<br>
+
 5. **"¿Los colores y letras son fáciles de ver bajo la luz del sol?"**  
    *Objetivo:* Testear legibilidad en condiciones reales de trabajo en campo.
-<br>
+
 6. **"Comparado con llevar registros en papel, ¿esto es más fácil?"**  
    *Objetivo:* Medir valor agregado frente a métodos tradicionales (benchmark de usabilidad).
-<br>
+
 7. **"¿Qué fue lo más difícil de hacer en la app?"**  
    *Objetivo:* Identificar puntos críticos de fricción en el flujo de usuario.
 
@@ -2961,6 +3028,10 @@ Por otro lado, se ha demostrado la importancia de contar con una gestión de ver
 Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante para alcanzar los objetivos del proyecto. La colaboración activa entre los integrantes permitió distribuir tareas de manera estratégica, aprovechar fortalezas individuales y mantener una comunicación constante que garantizó la calidad y coherencia en cada entrega.
 
 TB2: Durante este sprint se mejoró el Landing Page, se avanzó en el desarrollo del frontend web y móvil, y se implementaron funcionalidades clave del backend e integración IoT, todo alineado con las User Stories definidas. Se utilizaron herramientas como Trello para la gestión ágil de tareas, alcanzando tareas asignadas. Además, se realizaron pruebas de aceptación mediante archivos .feature registrados en el repositorio correspondiente.
+
+# Video About-the-Team
+
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EVtacPwo4OVKvGrMBO9vYmABMDwEZvt96oB9ikH7QHg-yQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JuuXgs>
 
 # Bibliografía
 
