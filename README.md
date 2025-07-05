@@ -278,10 +278,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <br>
             TB1 <br>A lo largo del desarrollo de este proyecto, he trabajado promoviendo un entorno colaborativo donde cada integrante pudo aportar desde su experiencia. He contribuido activamente en la elaboración y definición de las User Stories, organizando reuniones clave para debatir el alcance del negocio y asegurar una visión compartida. Gracias a esta dinámica de trabajo conjunto, logramos completar con éxito las User Stories y desarrollar los 10 pasos del Event Storming.
             <br><br>
-		TP1<br>A lo largo del desarrollo de este trabajo, asumí un rol activo en la organización del equipo. Me encargué de segmentar las tareas relacionadas con las User Stories, diseñé mockups y wireflows, desarrollé el dashboard en el frontend y coordiné el despliegue del sistema. Estas acciones permitieron consolidar los avances técnicos y facilitar el trabajo conjunto del grupo.
-		<br><br>
+            TP1<br>A lo largo del desarrollo de este trabajo, asumí un rol activo en la organización del equipo. Me encargué de segmentar las tareas relacionadas con las User Stories, diseñé mockups y wireflows, desarrollé el dashboard en el frontend y coordiné el despliegue del sistema. Estas acciones permitieron consolidar los avances técnicos y facilitar el trabajo conjunto del grupo.
+            <br><br>
 		TB2<br>
 En esta nueva etapa del proyecto, continué impulsando el trabajo colaborativo y el liderazgo compartido. Me enfoqué principalmente en el desarrollo del frontend, optimizando las vistas principales de la aplicación web y asegurando la integración fluida de nuevas funcionalidades propuestas durante el sprint. Además, seguí organizando y facilitando reuniones de seguimiento, lo que permitió coordinar los avances de cada integrante y resolver bloqueos de manera oportuna. Estas acciones contribuyeron a mantener el ritmo del equipo y garantizar la entrega de resultados alineados a los objetivos del proyecto.<br><br>
+TF<br>
+En esta nueva fase del proyecto, continué promoviendo el trabajo en equipo y fomentando un liderazgo compartido. Me centré especialmente en el desarrollo del frontend, mejorando las vistas principales de la aplicación web y asegurando una integración fluida de las nuevas funcionalidades definidas durante el sprint. Asimismo, me encargué de coordinar y facilitar las reuniones de seguimiento, lo cual permitió alinear el trabajo de los integrantes y resolver los obstáculos con rapidez. Estas acciones ayudaron a mantener la productividad del equipo y asegurar la entrega de resultados coherentes con los objetivos del proyecto.
+<br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> Durante el desarrollo del proyecto colaboré activamente para lograr los objetivos grupales planeados. Gracias a ello logramos terminar exitosamente las User Stories, los 10 pasos del Event Storming y una Entrevista del segundo segmento objetivo.
             <br><br>TP1
@@ -333,6 +336,8 @@ Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquite
             <br><br>
 		TB2<br>
 En esta fase del proyecto, fomenté un entorno colaborativo e inclusivo dentro del equipo, asegurándome de que todos los integrantes participaran activamente y pudieran aportar sus ideas. Me enfoqué en establecer metas claras para el desarrollo del frontend y coordinar la planificación de tareas en conjunto con el equipo. Promoví la comunicación constante y la resolución de dudas, lo que permitió avanzar de manera alineada y cumplir los objetivos propuestos en el sprint. Gracias a la organización y al apoyo mutuo, logramos integrar nuevas funcionalidades y mantener la cohesión del grupo. <br><br>
+TF<br>
+En esta etapa del proyecto, promoví un entorno colaborativo e inclusivo dentro del equipo, asegurándome de que cada integrante participara activamente en las decisiones técnicas. Me enfoqué principalmente en el desarrollo e integración del módulo IoT basado en ESP32, configurando los sensores y asegurando su correcta comunicación con la aplicación. Establecí objetivos claros para la implementación de funcionalidades como la lectura de temperatura y humedad, así como su envío y visualización en tiempo real. Además, coordiné la planificación de tareas en conjunto con el equipo y fomenté la comunicación constante, lo que facilitó la resolución de dudas técnicas y mantuvo el avance alineado. Gracias a la buena organización y al trabajo conjunto, logramos integrar de forma exitosa el hardware con el sistema, fortaleciendo la cohesión del grupo y cumpliendo los objetivos del sprint.<br><br>
             <strong>Landeo Simeón, Favio Sebastián</strong> <br><br>
             TB1 <br> A través del proceso de desarrollo de este proyecto he ayudado a crear un entorno colaborativo para lograr cumplir el objetivo en común. Es por eso que hemos logrado concluir las User Stories, los 10 pasos del Event Storming y una entrevista del segundo segmento objetivo.
             <br><br>TP1
@@ -2895,6 +2900,13 @@ Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GRO
 
 #### 6.2.3.9. Team Collaboration Insights during Sprint
 
+##### Front-End Web
+
+![image](insight-front.png)
+
+##### Front-End Mobile
+
+![image](insight-mobile.png)
 
 ## 6.3. Entrevistas de Validación
 
