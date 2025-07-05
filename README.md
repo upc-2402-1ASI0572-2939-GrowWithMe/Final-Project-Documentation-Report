@@ -2872,8 +2872,7 @@ Gracias a este proceso, el avance correspondiente al Sprint 2 quedó operativo y
 
 #### Despliegue del Backend:
 
-![alt text](assets/back.jpg)
-![alt text](assets/back1.jpg)
+COMPLETAR CON IMAGENES DEL BACKEND DEPLOYADO
 
 #### Landing Page: 
 https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
