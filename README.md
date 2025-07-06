@@ -2871,7 +2871,57 @@ Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma
 
 #### 6.2.3.4. Development Evidence for Sprint Review
 
+En esta sección mostramos los commits realizados durante el desarrollo del proyecto. 
+
+| Repository           | Branch   | Commit ID | Commit Message                                                                 | Commit Message Body | Committed on (Date) |
+|----------------------|----------|-----------|-------------------------------------------------------------------------------|---------------------|---------------------|
+| Back-End-GrowWithMe  | develop  | 7073186   | feat: profiles bounded context with DDD layers.                               |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 6982408   | Merge branch 'feature/iam' into develop                                       |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 4568033   | feat: iam bounded context with DDD layers.                                    |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 0x861576  | feat: crops bounded context with DDD layers.                                  |                     | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 0x3b818e  | feat: add application properties for naming strategy and JPA Hibernate Configuration. |               | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 0x6a1669  | feat: add shared bounded context with common configuration for open api, naming strategy and auditable models. |       | 17/06/2025          |
+| Back-End-GrowWithMe  | develop  | 944166d   | chore: initial commit.                                                        |                     | 17/06/2025          |
+
+
+| Repository        | Branch | Commit ID | Commit Message                                      | Commit Message Body | Committed on (Date) |
+|-------------------|--------|-----------|-----------------------------------------------------|---------------------|---------------------|
+| Mobile-GrowWithMe | main   | defCtabd  | feat: add activity crops activity                   |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | defFalc   | feat: add activity crops place holder and retrofitclient |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | S4f4022   | feat: add crops activity schema                     |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | a436cee   | feat: add crops place holder and retrofitclient     |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | a4e54d9   | feat: add fake api url                              |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | G5a9f32   | fix: fix crops layouts                              |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | df086f8   | feat: add crop view holder                          |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | 198d989   | feat: add crop schema                               |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | ce7c1be   | fix: corrections in crop activity                   |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | d7ccd6d   | fix: corrections in crop class, adapter and schema  |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | a795dce   | feat: add activity crops layout                     |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | c283882   | feat: add activity form                             |                     | 17/06/2025          |
+| Mobile-GrowWithMe | main   | 92c5c36   | feat: add calendar component                        |                     | 17/06/2025          |
+
+
+Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+
+Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
+
+Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+
+Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
+
+Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GROWITHME-WOKWI
+
 #### 6.2.3.5. Testing Suite Evidence for Sprint Review
+
+| **Repository**          | **Branch**           | **Commit ID** | **Commit Message**              | **Commit Description** | **Committed On (Date)** |
+|-------------------------|----------------------|----------------|----------------------------------|--------------------------|--------------------------|
+| acceptance-test-IoT     | test/UserStories     | a5cf2ec        | Acceptance_test_09.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 54c373c        | Acceptance_test_10.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 2bfd92c        | Acceptance_test_11.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 97475fc        | Acceptance_test_12.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | 42323ae        | Acceptance_test_13.feature       | -                        | 20/06/2025               |
+
+Enlace Repositorio Testing: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Testing-GrowWithMe
 
 #### 6.2.3.6. Execution Evidence for Sprint Review  
 
