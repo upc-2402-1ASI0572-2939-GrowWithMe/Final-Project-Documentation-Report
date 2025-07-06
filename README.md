@@ -3139,9 +3139,9 @@ Jeyson encontró la landing page y la aplicación web bien estructuradas, con in
 
 **Entrevista N°2:**
 
-![](assets/)
+![](assets/entrevista2-bt.png)
 
-**Timing:** 
+**Timing:*5:02* 
 
 **Nombre:** Juan Calisaya
 
@@ -3153,11 +3153,12 @@ El consultor también señaló que el flujo de uso es fluido y coherente, lo cua
 
 **Entrevista N°3:**
 
-
 ![image](entrevista3-diego.png)
 
 **Timing:** 10:30
+
 **Nombre:** Gabriela Nomberto
+
 **Edad:** 21 años
 
 Gabriela Nomberto compartió una opinión favorable sobre la aplicación Grow With Me, resaltando su diseño atractivo y sobrio. Destacó que la estética limpia y bien estructurada aporta una sensación de profesionalismo y hace que la experiencia visual sea agradable. También mencionó que la interfaz resulta clara e intuitiva, lo que facilita al usuario entender rápidamente cómo interactuar con la plataforma.
@@ -3166,9 +3167,39 @@ Además, Gabriela valoró positivamente la fluidez del recorrido del usuario, in
 
 **Entrevista N°4:**
 
+![](assets/entrevistaV4.png)
+
+**Timing:** 16:30
+
+**Nombre:** Camila Pinedo
+
+**Edad:** 21 años
+
+Durante las entrevistas de validación de la plataforma agrícola “Grow With Me”, los usuarios destacaron su diseño claro, funcionalidad intuitiva y utilidad para el monitoreo de cultivos mediante sensores IoT. La consultora Camila valoró la información concisa y la interactividad visual; el consultor Mario consideró que es fácil de usar, aunque sugirió incluir una opción de traducción al español; y el agricultor Aarón mostró interés en las funciones de gestión de cultivos y actividades, aunque detectó fallos técnicos en el registro. En general, la plataforma fue bien recibida, pero se recomienda mejorar la accesibilidad idiomática, pulir detalles visuales y corregir errores funcionales.
+
 **Entrevista N°5:**
 
+![](assets/entrevistaV5.png)
+
+**Timing:** 21:24
+
+**Nombre:** Mario Estrada
+
+**Edad:** 23 años
+
+Durante la entrevista con el consultor Mario sobre la experiencia de usuario en la plataforma agrícola, se destacó que la página le pareció sencilla, llamativa y bien estructurada para entender el proyecto. Sin embargo, mencionó como principal inconveniente el uso del idioma inglés, ya que no lo domina completamente, por lo que recomendó incorporar una opción de traducción. También valoró positivamente que las funcionalidades estén organizadas y accesibles, aunque sugirió mejorar algunos detalles del diseño visual. Finalmente, comentó que ingresar datos en la plataforma parece sencillo y que, con práctica, el uso se vuelve aún más eficiente para su trabajo.
+
 **Entrevista N°6:**
+
+![](assets/entrevista6V.png)
+
+**Timing:** 26:21
+
+**Nombre:** Gabriela Nomberto
+
+**Edad:** 22 años
+
+Durante esta entrevista de validación con un agricultor, se presentó la aplicación web “Grow With Me”, explicando sus principales funciones: monitoreo de cultivos mediante sensores IoT, gestión de actividades agrícolas, historial de datos, consultas a expertos y recordatorios automáticos. El usuario valoró positivamente la claridad general de las funciones, los gráficos informativos y la utilidad del historial, aunque señaló que algunos botones podrían tener nombres más claros y que faltan descripciones para herramientas técnicas. También sugirió incorporar un modo oscuro para mejorar la visibilidad bajo la luz del sol y un tutorial inicial para facilitar el primer uso. Considera que la app es mucho más práctica que llevar registros en papel, aunque todavía hay botones sin funcionalidad que deberían completarse. En general, encontró la plataforma útil, clara y con potencial para mejorar aún más.
 
 ### 6.3.3. Evaluaciones según heurísticas 
 
