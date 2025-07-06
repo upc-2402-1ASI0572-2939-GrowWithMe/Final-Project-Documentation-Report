@@ -2874,7 +2874,7 @@ Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma
 
 ![image](assets/TrelloS3.png)
 
-<https://trello.com/invite/b/6868b50b11cb4d32d99936af/ATTIbb56f495237ce9aeb8046c585d2b7a400E410C34/grow-with-me-product-backlog-tp-sprint-3>
+Enlace del Trello: <https://trello.com/invite/b/6868b50b11cb4d32d99936af/ATTIbb56f495237ce9aeb8046c585d2b7a400E410C34/grow-with-me-product-backlog-tp-sprint-3>
 
 #### 6.2.3.4. Development Evidence for Sprint Review
 
@@ -2907,7 +2907,6 @@ En esta sección mostramos los commits realizados durante el desarrollo del proy
 | Mobile-GrowWithMe | main   | c283882   | feat: add activity form                             |                     | 17/06/2025          |
 | Mobile-GrowWithMe | main   | 92c5c36   | feat: add calendar component                        |                     | 17/06/2025          |
 
-
 Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
 
 Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
@@ -2922,11 +2921,11 @@ Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GRO
 
 | **Repository**          | **Branch**           | **Commit ID** | **Commit Message**              | **Commit Description** | **Committed On (Date)** |
 |-------------------------|----------------------|----------------|----------------------------------|--------------------------|--------------------------|
-| acceptance-test-IoT     | test/UserStories     | a5cf2ec        | Acceptance_test_09.feature       | -                        | 20/06/2025               |
-| acceptance-test-IoT     | test/UserStories     | 54c373c        | Acceptance_test_10.feature       | -                        | 20/06/2025               |
-| acceptance-test-IoT     | test/UserStories     | 2bfd92c        | Acceptance_test_11.feature       | -                        | 20/06/2025               |
-| acceptance-test-IoT     | test/UserStories     | 97475fc        | Acceptance_test_12.feature       | -                        | 20/06/2025               |
-| acceptance-test-IoT     | test/UserStories     | 42323ae        | Acceptance_test_13.feature       | -                        | 20/06/2025               |
+| acceptance-test-IoT     | test/UserStories     | a5cf2ec        | Acceptance_test_09.feature       | -                        | 06/07/2025               |
+| acceptance-test-IoT     | test/UserStories     | 54c373c        | Acceptance_test_10.feature       | -                        | 06/07/2025                |
+| acceptance-test-IoT     | test/UserStories     | 2bfd92c        | Acceptance_test_11.feature       | -                        | 06/07/2025               |
+| acceptance-test-IoT     | test/UserStories     | 97475fc        | Acceptance_test_12.feature       | -                        | 06/07/2025              |
+| acceptance-test-IoT     | test/UserStories     | 42323ae        | Acceptance_test_13.feature       | -                        | 06/07/2025              |
 
 Enlace Repositorio Testing: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Testing-GrowWithMe
 
@@ -3062,6 +3061,7 @@ Para el Sprint 3, se estructuraron mejor los endpoints del Backend para poder mo
 ---
 
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review
+
 La Landing Page fue desplegada utilizando GitHub Pages, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (main o gh-pages) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
 
 ![alt text](image.png)
@@ -3086,16 +3086,20 @@ Gracias a este proceso, el avance correspondiente al Sprint 3 quedó operativo y
 #### Despliegue del Backend:
 
 ![alt text](assets/back.jpg)
+
 ![alt text](assets/back1.jpg)
 
-#### Landing Page: 
-https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
+#### Landing Page 
 
-#### Front-End: 
-https://growwithme-front-end.netlify.app/home
+Enlace: https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
 
-#### Wokwi: 
-https://wokwi.com/projects/414805589981671425
+#### Front-End
+
+Enlace: https://growwithme-front-end.netlify.app/home
+
+#### Wokwi
+
+Enlace: https://wokwi.com/projects/414805589981671425
 
 Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
 
@@ -3117,34 +3121,65 @@ Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GRO
 
 ![image](insight-mobile.png)
 
+##### Back-End
+
+*Imagen*
+
 ## 6.3. Entrevistas de Validación
 
 ### 6.3.1. Diseño de Entrevistas  
 
-A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la facilidad de uso de la aplicación actual. Estas preguntas están orientadas a examinar las heurísticas de usabilidad y obtener datos importantes sobre la experiencia del usuario.
+A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la facilidad de uso de la aplicación actual. Estas preguntas están orientadas a examinar principios de usabilidad y obtener información clave sobre la experiencia del usuario.
 
-1. **"¿Entiendes fácilmente lo que significa cada función?"**  
-   *Objetivo:* Evaluar claridad en el diseño de interfaz y correspondencia con el modelo mental del usuario.
+### Preguntas Generales (para ambos segmentos)
 
-2. **"¿Los botones hacen lo que esperas en cada pantalla?"**  
-   *Objetivo:* Verificar consistencia en la interacción y cumplimiento de expectativas de acción.
+Estas preguntas buscan evaluar la experiencia general con la aplicación en base a principios de usabilidad.
 
-3. **"¿La app te avisa antes de borrar algo importante?"**  
-   *Objetivo:* Analizar prevención de errores críticos y manejo de acciones irreversibles.
+1. **¿Entiendes fácilmente lo que significa cada función?**  
+   *Objetivo:* Evaluar claridad en el diseño de la interfaz y la alineación con el modelo mental del usuario.
 
-4. **"¿Los gráficos y números son fáciles de entender?"**  
-   *Objetivo:* Evaluar efectividad en visualización de datos para toma de decisiones agrícolas.
+2. **¿Los botones hacen lo que esperas en cada pantalla?**  
+   *Objetivo:* Verificar la consistencia en la interacción y el cumplimiento de expectativas.
 
-5. **"¿Los colores y letras son fáciles de ver bajo la luz del sol?"**  
-   *Objetivo:* Testear legibilidad en condiciones reales de trabajo en campo.
+3. **¿La app te avisa antes de borrar o cambiar algo importante?**  
+   *Objetivo:* Analizar la prevención de errores y manejo de acciones irreversibles.
 
-6. **"Comparado con llevar registros en papel, ¿esto es más fácil?"**  
-   *Objetivo:* Medir valor agregado frente a métodos tradicionales (benchmark de usabilidad).
+4. **¿Qué fue lo más difícil de hacer en la app?**  
+   *Objetivo:* Identificar puntos de fricción críticos en el uso.
 
-7. **"¿Qué fue lo más difícil de hacer en la app?"**  
-   *Objetivo:* Identificar puntos críticos de fricción en el flujo de usuario.
+---
+
+### Preguntas Específicas para Agricultores
+
+**Objetivo de las preguntas:** Evaluar cómo perciben los agricultores la utilidad de la app en su trabajo diario, especialmente en comparación con métodos tradicionales como el uso de papel.
+
+5. **¿Los gráficos y los datos que muestra la app son fáciles de entender?**  
+   *Objetivo:* Evaluar la efectividad de la visualización para apoyar decisiones agrícolas.
+
+6. **¿Puedes ver bien los colores y letras cuando usas la app bajo el sol?**  
+   *Objetivo:* Medir la legibilidad en condiciones reales de trabajo en campo.
+
+7. **Comparado con llevar registros en papel, ¿esto te resulta más fácil?**  
+   *Objetivo:* Determinar el valor agregado frente a métodos manuales.
+
+---
+
+### Preguntas Específicas para Consultores
+
+**Objetivo de las preguntas:** Analizar si la app facilita el acceso a la información, la interpretación de datos técnicos y la comunicación con los agricultores.
+
+8. **¿La app te permite acceder fácilmente a los datos necesarios para asesorar al agricultor?**  
+   *Objetivo:* Medir eficiencia en la búsqueda y análisis de información clave.
+
+9. **¿Puedes interpretar rápidamente los indicadores o gráficos que ves?**  
+   *Objetivo:* Validar que la representación visual facilita la toma de decisiones técnicas.
+
+10. **¿Te resultó fácil explicar los resultados al agricultor usando la app?**  
+   *Objetivo:* Evaluar la utilidad de la app como herramienta de comunicación y soporte.
 
 ### 6.3.2. Registro de Entrevistas 
+
+### Segmento para Agricultores
 
 **URL de toodas la entrevistas de validación:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/Eb3LCSNQTt9OglV4C_FnnDkB1PNHt2oWXxfquY5gC1ELaw?e=cdcL5s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
@@ -3188,7 +3223,9 @@ Gabriela Nomberto compartió una opinión favorable sobre la aplicación Grow Wi
 
 Además, Gabriela valoró positivamente la fluidez del recorrido del usuario, indicando que el flujo de uso está bien definido y se siente natural. En su evaluación, el diseño refleja un buen manejo de los principios de experiencia de usuario (UX) y diseño de interfaz (UI), logrando una interacción eficaz y amigable.
 
-**Entrevista N°4:**
+### Segmento para Consultores
+
+**Entrevista N°1:**
 
 ![](assets/entrevistaV4.png)
 
@@ -3200,7 +3237,7 @@ Además, Gabriela valoró positivamente la fluidez del recorrido del usuario, in
 
 Durante las entrevistas de validación de la plataforma agrícola “Grow With Me”, los usuarios destacaron su diseño claro, funcionalidad intuitiva y utilidad para el monitoreo de cultivos mediante sensores IoT. La consultora Camila valoró la información concisa y la interactividad visual; el consultor Mario consideró que es fácil de usar, aunque sugirió incluir una opción de traducción al español; y el agricultor Aarón mostró interés en las funciones de gestión de cultivos y actividades, aunque detectó fallos técnicos en el registro. En general, la plataforma fue bien recibida, pero se recomienda mejorar la accesibilidad idiomática, pulir detalles visuales y corregir errores funcionales.
 
-**Entrevista N°5:**
+**Entrevista N°2:**
 
 ![](assets/entrevistaV5.png)
 
@@ -3212,7 +3249,7 @@ Durante las entrevistas de validación de la plataforma agrícola “Grow With M
 
 Durante la entrevista con el consultor Mario sobre la experiencia de usuario en la plataforma agrícola, se destacó que la página le pareció sencilla, llamativa y bien estructurada para entender el proyecto. Sin embargo, mencionó como principal inconveniente el uso del idioma inglés, ya que no lo domina completamente, por lo que recomendó incorporar una opción de traducción. También valoró positivamente que las funcionalidades estén organizadas y accesibles, aunque sugirió mejorar algunos detalles del diseño visual. Finalmente, comentó que ingresar datos en la plataforma parece sencillo y que, con práctica, el uso se vuelve aún más eficiente para su trabajo.
 
-**Entrevista N°6:**
+**Entrevista N°3:**
 
 ![](assets/entrevista6V.png)
 
@@ -3226,21 +3263,57 @@ Durante esta entrevista de validación con un agricultor, se presentó la aplica
 
 ### 6.3.3. Evaluaciones según heurísticas 
 
-Aplicación para evaluar: GrowWithMe
+UX Heuristics & Principles Evaluation
 
-**Tareas a evaluar:**
+Usability - Inclusive Design - Information Architecture
 
-- Los usuarios quieren tener la ipción de modo oscuro.
-- Los usuairios quieren tener el detalle de cada dispositivo.
-- Debe exixtir una opcion de búsqueda en los cultivos.
-- Debe exixtir un swich pra conectar o desconectr los dispositivos.
+Carrera: Ingeniería de Software
 
-**Tabla resumen:**
+Curso: Desarrollo de Soluciones IoT
+
+Sección: 2939
+
+SITE O APP A EVALUAR: 
+GrowWithMe
+
+**TAREAS A EVALUAR:**
+
+A partir del análisis de las entrevistas y retroalimentación de los usuarios, se han identificado los siguientes requerimientos funcionales clasificados según la plataforma:
+
+## Web Application
+
+- Los usuarios quieren tener la opción de modo oscuro.
+- Los usuarios quieren ver el detalle de cada dispositivo conectado.
+- Debe existir una opción de búsqueda para localizar cultivos rápidamente.
+- Debe existir un switch para conectar o desconectar los dispositivos desde el panel web.
+
+## Mobile Application
+
+- Los usuarios quieren tener la opción de modo oscuro.
+- Los usuarios quieren consultar el detalle de cada dispositivo desde la app.
+- Debe existir una opción de búsqueda para cultivos desde el dispositivo móvil.
+- Debe existir un switch para conectar o desconectar los dispositivos desde la app móvil.
+
+Las siguientes funcionalidades no se contemplan en esta versión de la evaluación:
+
+- Creación de cuentas de usuario e inicio de sesión en la app móvil  
+- Manejo de notificaciones  
+- Acceso a opciones de ayuda y soporte técnico
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
 
 | Escala de Severidad |          |          |          |           |
 |---------------------|----------|----------|----------|-----------|
 | 1                   | 2        | 3        | 4        | 5         |
 | No tan grave        | Leve     | Moderado | Grave    | Muy grave |
+
+TABLA DE RESUMEN:
+
+La siguiente tabla resume los resultados de dicha evaluación.
+
+- WEB APPLICATION:
 
 | #Orden | Problema                                                                 | Escala de Severidad | Heurística/Principio violada(o)       |
 |--------|--------------------------------------------------------------------------|---------------------|---------------------------------------|
@@ -3248,6 +3321,10 @@ Aplicación para evaluar: GrowWithMe
 | 2      | Los usuarios quieren tener el detalle de cada dispositivo.               | Grave               | Visibilidad del estado del sistema    |
 | 3      | Debe existir una opción de búsqueda en los cultivos.                     | Grave               | Flexibilidad y eficiencia de uso      |
 | 4      | Debe existir un switch para conectar o desconectar los dispositivos.     | Muy grave          | Control y libertad del usuario        |
+
+- MOBILE APPLICATION:
+
+*FALTA TABLA*
 
 **Heurísticas y Recomendaciones:**
 
