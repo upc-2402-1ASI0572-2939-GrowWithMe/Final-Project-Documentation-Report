@@ -3496,14 +3496,14 @@ Video de la Exposición del TB2:
 Video About The Team:
 <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EVtacPwo4OVKvGrMBO9vYmABMDwEZvt96oB9ikH7QHg-yQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JuuXgs>
 
-Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
+Enlace Landing Page: https://upc-2402-1asi0572-2939-growwithme.github.io/Landing-Page-Grow-With-Me/
 
-Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
+Enlace Front-End: https://growwithme-webapp.netlify.app/
 
-Enlace Repositorio Back-End: https://fresh-wahoo-tolerant.ngrok-free.app/swagger-ui/index.html
+Enlace Back-End: https://fresh-wahoo-tolerant.ngrok-free.app/swagger-ui/index.html
 
 Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
 
-Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GROWITHME-WOKWI
+Enlace Wokwi: https://wokwi.com/projects/414805589981671425
 
 Video About The Team: https://www.youtube.com/watch?v=I26qnwOH_r8&ab_channel=MilyTongo
