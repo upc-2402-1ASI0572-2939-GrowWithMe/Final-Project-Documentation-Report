@@ -2949,25 +2949,47 @@ Estado: En producción activa
 
 ![image](assets/Landing4.png)
 
-- Frontend Web App
+Versión Final
+Estado: En producción activa
+Se accede a la página web - Frontend, desde la opción Aplicación cta.
+
+![image](assets/GWMLP.png)
+*Más imágenes*
+
+*Enlace del Video:*
+
+#### Front-End
+
+Nueva Versión
+Estado: En producción activa
+
+![image](assets/GWMFront.png)
+*Más imágenes*
+
+*Enlace del Video:*
+
+#### Mobile App
 
 Estado: En producción activa
 
-![image](assets/GWMF2.png)
+![image](assets/M1.jpg)
 
-- Frontend Mobile App
+![image](assets/M2.jpg)
+*Más imágenes*
+
+*Enlace del Video:*
+
+#### Wokwi
+
+Versión Final
 
 Estado: En producción activa
 
-![image](assets/FMobile1.png)
+![image](assets/WOKWI.jpg)
+*Más imágenes*
 
-- Wokwi IoT
+*Enlace del Video:*
 
-Versión final con la integración con Backend y entorno físico
-
-![image](assets/Wokwi1.png)
-
-![image](assets/Wokwi1.png)
 
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 
@@ -3057,13 +3079,14 @@ Se creó un archivo netlify.toml para definir correctamente las reglas de redire
 3. Publicación en Netlify
 Se especificó como carpeta de despliegue el subdirectorio dentro de dist/ correspondiente al nombre del proyecto. Una vez completado este paso, el sistema confirmó que el despliegue se realizó con éxito.
 
-Gracias a este proceso, el avance correspondiente al Sprint 2 quedó operativo y accesible públicamente para su revisión.
+Gracias a este proceso, el avance correspondiente al Sprint 3 quedó operativo y accesible públicamente para su revisión.
 
 ![alt text](image-1.png)
 
 #### Despliegue del Backend:
 
-COMPLETAR CON IMAGENES DEL BACKEND DEPLOYADO
+![alt text](assets/back.jpg)
+![alt text](assets/back1.jpg)
 
 #### Landing Page: 
 https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
