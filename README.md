@@ -69,7 +69,7 @@
     <td align="center">1.00</td>
     <td>21/04/2025</td>
     <td> Todos los integrantes del equipo.</td>
-    <td> Se elaboró la descripción de la startup GWM, donde se presentó al equipo de trabajo, se expuso la problemática a abordar y se realizó un análisis del mercado que incluyó el estudio de la competencia y el valor diferencial que aporta nuestra propuesta dentro del nicho. Asimismo, se definieron la visión, los objetivos del proyecto y el público objetivo. Se propuso una solución tecnológica basada en IoT orientada al monitoreo seguro del transporte de materiales peligrosos, estableciendo los cimientos para el desarrollo futuro del sistema. Posteriormente, se implementaron los artefactos necesarios para construir una base sólida que sustente la arquitectura, la implementación, la validación y el desarrollo de GWM.</td>
+    <td>Desarrollamos la descripción de nuestro startup Grow With Me, junto a la presentación del equipo que impulsará el desarrollo del sistema. Analizamos a la competencia, identificando nuestro valor diferencial dentro del nicho. Además, definimos con claridad la problemática que buscamos resolver, proponiendo una solución innovadora y centrada en las necesidades reales del usuario.</td>
   </tr>
   <tr>
     <td align="center">2.00</td>
@@ -2875,7 +2875,105 @@ Se utilizó la herramienta Trello para organizar y gestionar las tareas de forma
 
 #### 6.2.3.6. Execution Evidence for Sprint Review  
 
+En el Sprint 3 se alcanzó a desarrollar la última versión de la landing page con la retroalimentación del profesor, la tercera versión del Frontend de la Aplicación Web, asimismo, la segunda versión del Frontend de la Aplicación Mobile; también se cumplió con la segunda versión del Backend y la integración con el entorno IoT del proyecto. A continuación se adjunta la evidencia:
+
+- Landing Page
+
+Versión Final con la Retroalimentación del profesor:
+Estado: En producción activa
+
+![image](assets/GWMLP2.png)
+*Vista con Responsive*
+
+- Frontend Web App
+
+Estado: En producción activa
+
+![image](assets/GWMF2.png)
+
+- Frontend Mobile App
+
+Estado: En producción activa
+
+![image](assets/FMobile1.png)
+
+- Wokwi IoT
+
+Versión final con la integración con Backend y entorno físico
+
+![image](assets/Wokwi1.png)
+
+![image](assets/Wokwi1.png)
+
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
+
+Para el Sprint 3, se estructuraron mejor los endpoints del Backend para poder mostrar y funcionar correctamente las funcionalidades en el Fronted de la Web App y Mobile App.
+
+- Endpoints de la API
+
+  - IAM:
+
+| Método  | Endpoint                          | Descripción                                             |
+|---------|-----------------------------------|---------------------------------------------------------|
+| GET     | `/api/v1/farmers`                 | Obtiene la lista de todos los usuarios agricultores.    |
+| GET     | `/api/v1/consultants`             | Obtiene la lista de todos los usuarios consultores.     |
+| POST    | `/api/v1/authentication/sign-in`  | Genera el body para iniciar sesión dentro de la app.    |
+| POST    | `/api/v1/authentication/sign-up`  | Genera el body para registrar un usuario farmer o consultant en la app. |
+
+  - Consultations:
+
+| Método  | Endpoint                          | Descripción                                                    |
+|---------|-----------------------------------|----------------------------------------------------------------|
+| POST    | `/api/v1/consultations`           | Crea una consulta de un usuario agricultor hacia un consultor. |
+| DELETE  | `/api/v1/consultations/{id}`      | Elimina una consulta por su id.                                |
+| PUT     | `/api/v1/consultations/{id}`      | Actualiza la información necesaria de una consulta.            |
+| GET     | `/api/v1/consultations`           | Devuelve la lista de todas las consultas de todos los agricultores. |
+| GET     | `/api/v1/consultations/farmer`    | Devuelve la lista de todas las consultas de un id agricultor. |
+
+  - Crops:
+
+| Método  | Endpoint                          | Descripción                                                    |
+|---------|-----------------------------------|----------------------------------------------------------------|
+| POST    | `/api/v1/crops`                   | Crea un cultivo perteneciente a un agricultor.                 |
+| DELETE  | `/api/v1/crops/{id}`              | Elimina un cultivo por su id.                                  |
+| PUT     | `/api/v1/crops/{id}`              | Actualiza la información necesaria de una consulta.            |
+| PUT     | `/api/v1/crops/set-empty/{id}`    | Actualiza el estado de un cultivo para reiniciar el ciclo de crecimiento del cultivo.   |
+| GET     | `/api/v1/crops`                   | Devuelve la lista de todos los cultivos de todos los agricultores. |
+| GET     | `/api/v1/crops/{id}`              | Devuelve un cultivo de un id de un crop.                     |
+| GET     | `/api/v1/crops/farmer`            | Devuelve la lista de todos los cultivos de un id agricultor. |
+
+  - Crop Activities:
+
+| Método  | Endpoint                          | Descripción                                                    |
+|---------|-----------------------------------|----------------------------------------------------------------|
+| POST    | `/api/v1/crop-activities`         | Crea una actividad perteneciente a un cultivo.                 |
+| DELETE  | `/api/v1/crop-activities/{id}`    | Elimina una actividad de cultivo.                              |
+| DELETE  | `/api/v1/crop-activities/{cropId}`| Elimina todas las actividades de un cultivo por su ID.         |
+| PUT     | `/api/v1/crop-activities/{id}`    | Actualiza la actividad de un cultivo por su ID.                |
+| GET     | `/api/v1/crop-activities/{cropId}`| Devuelve la lista de todas las actividades de un crop por su ID. |
+
+  - Devices:
+
+| Método  | Endpoint                          | Descripción                                                    |
+|---------|-----------------------------------|----------------------------------------------------------------|
+| POST    | `/api/v1/devices`                       | Crea un dispositivo IoT.                                 |
+| POST    | `/api/v1/devices/activate/{id}`         | Actualiza el estado de conexión del dispositivo.         |
+| POST    | `/api/v1/devices/sensor-data/{id}`                      | Ingresa los datos de humedad y temperatura mediante JSON body.                 |
+| POST    | `/api/v1/devices/sensor-data/{id}/{temp}/{hum}`         | Ingresa los datos de humedad y temperatura mediante path variable.                 |
+| DELETE  | `/api/v1/devices/{id}`    | Elimina un dispositivo.                              |
+| PUT     | `/api/v1/devices/{id}`    | Actualiza la información de un dispositivo por su ID.                |
+| GET     | `/api/v1/devices/farmer`         | Devuelve la lista de todos los dispositivos por su agricultor ID. |
+| GET     | `/api/v1/devices/temp-list/{id}`        | Devuelve la lista de todos los datos del sensor de temperatura de un dispositivo por su ID. |
+| GET     | `/api/v1/devices/hum-list/{id}`         | Devuelve la lista de todos los datos del sensor de humedad de un dispositivo por su ID. |
+| GET     | `/api/v1/devices/sensor-data/{id}`         | Devuelve un dispositivo por su ID. |
+
+  - Notifications:
+
+| Método  | Endpoint                          | Descripción                                                    |
+|---------|-----------------------------------|----------------------------------------------------------------|
+| GET     | `/api/v1/notifications/farmer`         | Devuelve la lista de todas las notificaciones por su agricultor ID. |
+
+---
 
 #### 6.2.3.8. Software Deployment Evidence for Sprint Review
 La Landing Page fue desplegada utilizando GitHub Pages, lo que permitió alojar el sitio de forma gratuita y accesible mediante una URL pública. Se configuró el repositorio con la rama correspondiente (main o gh-pages) y se habilitó la opción de GitHub Pages desde la configuración del repositorio para publicar el contenido estático. Esto facilitó compartir el proyecto con usuarios finales y stakeholders sin necesidad de servidores externos.
