@@ -2936,8 +2936,15 @@ En el Sprint 3 se alcanzó a desarrollar la última versión de la landing page 
 Versión Final con la Retroalimentación del profesor:
 Estado: En producción activa
 
-![image](assets/GWMLP2.png)
-*Vista con Responsive*
+![image](assets/Landing1.png)
+
+![image](assets/Landing2.png)
+
+![image](assets/Landing3.png)
+
+![image](assets/Landing4.png)
+
+![image](assets/Landing4.png)
 
 - Frontend Web App
 
