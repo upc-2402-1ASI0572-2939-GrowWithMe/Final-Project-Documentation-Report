@@ -312,6 +312,8 @@ En esta nueva fase del proyecto, continué promoviendo el trabajo en equipo y fo
             <br>Colaboré activamente en este proyecto mediante la creación de mockups, prototipos funcionales y el diseño de las vistas web. Mi aporte fue clave para construir una visión compartida del producto y facilitar el trabajo coordinado en base a entregables visuales validados por el equipo.
             <br><br>TB2
             <br>En esta entrega, he trabajado en equipo aplicando un liderazgo colaborativo, aportando activamente en el diseño de interfaces mediante mockups y wireframes, así como en el desarrollo del código para lograr la interacción y visualización en tiempo real de la aplicación. Además, realicé el desarrollo y simulación en Wokwi para validar el funcionamiento del hardware y su integración. Junto a mis compañeros, tomamos decisiones de manera conjunta, aplicando prácticas del IoT para asegurar una solución funcional, eficiente y centrada en la experiencia del usuario.
+		TF
+Se logró cumplir con el desarrollo e integración del backend, el módulo edge y las simulaciones en Wokwi, asegurando su correcto despliegue, funcionamiento y conexión con el resto del sistema, lo que permitió validar su operatividad dentro del ecosistema de GWM.
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> Durante el desarrollo de nuestro proyecto colaboré activamente a lo largo del mismo desarrollando las primeras versiones de las historias de usuario y el product backlog, el impact mapping, una de las entrevistas y los diagramas c4 Model contribuyendo con mi participación al equipo y desarrollar de manera eficaz y eficiente el proyecto.
