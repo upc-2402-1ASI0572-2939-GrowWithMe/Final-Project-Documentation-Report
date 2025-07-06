@@ -51,7 +51,7 @@
 </body>
 
 <p align="center">
-<br><strong>Abril del 2025</strong></p>
+<br><strong>Julio del 2025</strong></p>
 <br>
 
 ---
