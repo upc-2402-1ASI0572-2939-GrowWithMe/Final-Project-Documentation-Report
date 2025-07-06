@@ -373,7 +373,9 @@ En esta etapa del proyecto, promoví un entorno colaborativo e inclusivo dentro 
             <br>Contribuí activamente en el entorno de trabajo colaborativo mediante la elaboración de mockups y prototipos que sirvieron como punto de referencia común para el equipo. Participé en reuniones donde alineamos ideas y planificamos avances, permitiendo mantener claridad sobre los objetivos visuales y técnicos del proyecto.
             <br><br>TB2
             <br>En esta entrega, colaboré en equipo ejerciendo un liderazgo participativo, contribuyendo de manera activa en la creación de interfaces a través de mockups y wireframes, además de desarrollar el código necesario para permitir la interacción y visualización en tiempo real de la aplicación. Junto a mis colegas, tomamos decisiones de forma consensuada, implementando prácticas de IoT para garantizar una solución funcional, eficiente y orientada a una experiencia de usuario óptima.
-            <br><br>
+            <br>            <br><br>TF
+	    <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
+	    <br><br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> A lo largo del trabajo del proyecto he fomentado un entorno colaborativo e inclusivo dentro del equipo participando activamente en las tareas y revisando que ciertos puntos del trabajo fueran concretado aportando con las entrevistas  y digagramas del proyecto.
             <br><br>TP1
