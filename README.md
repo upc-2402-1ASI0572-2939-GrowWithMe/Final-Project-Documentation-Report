@@ -2688,6 +2688,9 @@ Enlace Repositorio Testing: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe
 
 En el Sprint 2 se alcanzó a desarrollar la última versión de la landing page, la segunda versión del Frontend del Web Application, Mobile, y la primera versión del Backend y IoT de la aplicación. A continuación se muestra lo realizado:
 
+Enlace de la funncionalidad de las aplicaciones.
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?e=4PETU6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+
 #### Landing Page
 
 Versión Final
