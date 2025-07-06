@@ -69,19 +69,25 @@
     <td align="center">1.00</td>
     <td>21/04/2025</td>
     <td> Todos los integrantes del equipo.</td>
-    <td>Desarrollamos la descripción de nuestro startup Grow With Me, junto a la presentación del equipo que impulsará el desarrollo del sistema. Analizamos a la competencia, identificando nuestro valor diferencial dentro del nicho. Además, definimos con claridad la problemática que buscamos resolver, proponiendo una solución innovadora y centrada en las necesidades reales del usuario.</td>
+    <td> Se elaboró la descripción de la startup GWM, donde se presentó al equipo de trabajo, se expuso la problemática a abordar y se realizó un análisis del mercado que incluyó el estudio de la competencia y el valor diferencial que aporta nuestra propuesta dentro del nicho. Asimismo, se definieron la visión, los objetivos del proyecto y el público objetivo. Se propuso una solución tecnológica basada en IoT orientada al monitoreo seguro del transporte de materiales peligrosos, estableciendo los cimientos para el desarrollo futuro del sistema. Posteriormente, se implementaron los artefactos necesarios para construir una base sólida que sustente la arquitectura, la implementación, la validación y el desarrollo de GWM.</td>
   </tr>
   <tr>
     <td align="center">2.00</td>
     <td>14/05/2025</td>
     <td> Todos los integrantes del equipo.</td>
-    <td>Desarrollamos el Sprint 1 de la entrega junto a los lineamientos del software que incluye instalación, configuración y evidencias de despliegue.</td>
+    <td>Se resolvieron las observaciones realizadas en la entrega anterior y se culminó con el desarrollo final del landing page y del frontend de la página web. Asimismo, se implementaron las funcionalidades principales del sistema, garantizando una interfaz limpia e interactiva en esta primera versión que abarca el backend, edge, mobile y sistema embebido. Posteriormente, se desplegaron todos los artefactos correspondientes, dejando registro de ello como parte del Sprint 1. Además, se realizaron entrevistas de validación con GWM, se aplicaron principios de evaluación heurística, se produjo el video "About the Product" y se actualizaron tanto las conclusiones como las recomendaciones del proyecto.</td>
   </tr>
   <tr>
     <td align="center">3.00</td>
-    <td>14/05/2025</td>
+    <td>19/06/2025</td>
     <td> Todos los integrantes del equipo.</td>
-    <td>Se entregó el trabajo práctico con la corrección de la Tabla de Versiones (TB1). Además, se desarrollaron los Capítulos 5 y 6, incluyendo el diseño de la landing page y el avance del frontend de la aplicación.</td>
+    <td>Se resolvieron las observaciones realizadas en la entrega anterior y se culminó con el desarrollo final del landing page y del frontend de la página web. Asimismo, se implementaron las funcionalidades principales del sistema, garantizando una interfaz limpia e interactiva en esta primera versión que abarca el backend, edge, mobile y sistema embebido. Posteriormente, se desplegaron todos los artefactos correspondientes, dejando registro de ello como parte del Sprint 2. Además, se realizaron entrevistas de validación con GWM, se aplicaron principios de evaluación heurística, se produjo el video "About the Product" y se actualizaron tanto las conclusiones como las recomendaciones del proyecto.</td>
+  </tr>
+<tr>
+    <td align="center">4.00</td>
+    <td>06/07/2025</td>
+    <td> Todos los integrantes del equipo.</td>
+    <td>Se atendieron las observaciones realizadas en la entrega previa y se completó la versión final tanto del landing page como del frontend del sitio web. A su vez, se incorporaron las funcionalidades principales del sistema, garantizando una interfaz limpia e interactiva en esta primera versión que abarca los módulos de backend, edge, mobile y embebido. Asimismo, se llevó a cabo el despliegue de todos los artefactos generados, dejando constancia de ello como parte del Sprint 3. También se realizaron entrevistas de validación con GWM, se aplicaron criterios heurísticos para la evaluación del sistema, se produjo el video "About the Product" y se actualizaron las conclusiones y recomendaciones del proyecto.</td>
   </tr>
 </table>
 
@@ -96,6 +102,14 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 Trabajo Parcial: Las tareas asignadas para la entrega del Trabajo Parcial se han completado y estpan documentadas en el repositorio de GitHub.
 
 - Se escribieron, corrigieron y deployado la Landing Page y el Web APP de la aplicación "Grow With Me".
+
+TB2: Las actividades correspondientes a la entrega TB2 se llevaron a cabo y se encuentran disponibles en el repositorio de GitHub, dentro de la organización del equipo.
+
+- Se afinaron los ultimos detalles de la landing y de la webapp.
+
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de GitHub dentro de la organización del equipo.
+
+- Se afinaron los ultimos detalles de la landing, de la webapp y de mobile app. Especialmente se ajustaron el sistema IOT.
 
 Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Final-Project-Documentation-Report
 
@@ -234,10 +248,10 @@ Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Fin
       - [6.2.2.7. Services Documentation Evidence for Sprint Review](#6227-services-documentation-evidence-for-sprint-review)
       - [6.2.2.8. Software Deployment Evidence for Sprint Review](#6228-software-deployment-evidence-for-sprint-review)
       - [6.2.2.9. Team Collaboration Insights during Sprints](#6229-team-collaboration-insights-during-sprints)
-    - [6.2.3. Sprint 3](#622-sprint-2)
-      - [6.2.3.1. Sprint Planning 2](#6231-sprint-planning-2)
+    - [6.2.3. Sprint 3](#622-sprint-3)
+      - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
       - [6.2.3.2. Aspect Leaders and Collaborators](#6232-aspect-leaders-and-collaborators)
-      - [6.2.3.3. Sprint Backlog 2](#6233-sprint-backlog-2)
+      - [6.2.3.3. Sprint Backlog 3](#6233-sprint-backlog-3)
       - [6.2.3.4. Development Evidence for Sprint Review](#6234-development-evidence-for-sprint-review)
       - [6.2.3.5. Testing Suite Evidence for Sprint Review](#6235-testing-suite-evidence-for-sprint-review)
       - [6.2.3.6. Execution Evidence for Sprint Review](#6236-execution-evidence-for-sprint-review)
@@ -305,7 +319,10 @@ En esta nueva fase del proyecto, continué promoviendo el trabajo en equipo y fo
             <br>Durante el desarrollo del proyecto, contribuí en la elaboración de mockups, el desarrollo del módulo de actividades del calendario en el frontend y la definición de los User Flows. Además, participé en la mejora continua del sistema, asegurando coherencia funcional y visual en los entregables.
             <br><br>
 		TB2<br>
-Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquitectura del sistema, analizando y ajustando los componentes para una mejor escalabilidad y mantenibilidad. Además, lideré sesiones de revisión técnica con el equipo para discutir mejoras estructurales y asegurar una visión técnica común. También participé activamente en el desarrollo de la aplicación móvil, coordinando la integración de nuevas funciones y colaborando en la resolución de desafíos técnicos durante el sprint. Esta labor permitió fortalecer la cohesión técnica y la calidad del producto entregado.<br><br>
+Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquitectura del sistema, analizando y ajustando los componentes para una mejor escalabilidad y mantenibilidad. Además, lideré sesiones de revisión técnica con el equipo para discutir mejoras estructurales y asegurar una visión técnica común. También participé activamente en el desarrollo de la aplicación móvil, coordinando la integración de nuevas funciones y colaborando en la resolución de desafíos técnicos durante el sprint. Esta labor permitió fortalecer la cohesión técnica y la calidad del producto entregado.
+	<br><br>TF
+	    <br>Se desarrollaron los módulos de frontend, backend y las simulaciones en Wokwi, con el objetivo de validar el funcionamiento integral del sistema, garantizando la coherencia entre interfaces, lógica de negocio y componentes físicos simulados dentro del entorno de GWM.
+	    <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br><br>TP1
@@ -321,6 +338,9 @@ Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquite
             <br>Durante el trabajo, elaboré lineamientos generales de estilo y definí guías específicas para las plataformas web, móvil e IoT. Gracias a esta estandarización, el equipo pudo mantener una identidad visual coherente en todas las interfaces del sistema.
 	<br><br>TB2
             <br>Definí los elementos críticos de la versión móvil, asegurando que el desarrollo priorizara la experiencia del usuario. Mi rol fue decisivo para consolidar una visión compartida que resultó en una interfaz coherente, fácil de usar y técnicamente sólida.
+		<br><br>TF
+	    <br>Se desarrollaron los módulos de frontend, backend y las simulaciones en Wokwi, con el objetivo de validar el funcionamiento integral del sistema, garantizando la coherencia entre interfaces, lógica de negocio y componentes físicos simulados dentro del entorno de GWM.
+	    <br><br>
         </td>
         <td>
           A lo largo del proyecto, el liderazgo compartido y la colaboración activa entre todos los integrantes permitieron cumplir con éxito las actividades clave como entrevistas, User Stories, Event Storming y la elaboración del Product Backlog. Cada miembro aportó desde sus fortalezas, fortaleciendo el trabajo en equipo y asegurando una visión común del proyecto.
@@ -359,6 +379,8 @@ En esta etapa del proyecto, promoví un entorno colaborativo e inclusivo dentro 
             <br><br>
 		TB2<br>
 Durante esta etapa, trabajé en crear un ambiente inclusivo donde cada miembro pudiera expresar sus propuestas y opiniones técnicas. Establecí metas conjuntas relacionadas con la mejora de la arquitectura del sistema y la implementación de nuevas funciones en la aplicación móvil. Participé en la planificación de tareas y coordiné reuniones periódicas para dar seguimiento al progreso. El enfoque colaborativo y la definición clara de objetivos nos permitieron cumplir eficientemente con las entregas previstas y mejorar la integración entre los distintos módulos del proyecto.<br><br>
+	TF
+            <br>Se logró cumplir con el desarrollo e integración del backend, el módulo edge y las simulaciones en Wokwi, asegurando su correcto despliegue, funcionamiento y conexión con el resto del sistema, lo que permitió validar su operatividad dentro del ecosistema de GWM. <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Fomenté un entorno colaborativo e inclusivo dentro del equipo, estableciendo metas claras, planificando tareas de manera estratégica y cumpliendo los objetivos propuestos. Esta experiencia fortaleció mis habilidades blandas en organización y liderazgo compartido, y permitió culminar con éxito el Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
             <br><br>TP1
@@ -374,6 +396,8 @@ Durante esta etapa, trabajé en crear un ambiente inclusivo donde cada miembro p
             <br>Durante este proyecto, propicié un entorno ordenado y colaborativo al definir las guías de estilo para las diferentes plataformas. Estas pautas facilitaron la planificación visual del sistema y permitieron al equipo trabajar con una base común, cumpliendo los objetivos establecidos con coherencia visual y técnica.
 		br><br>TB2
             <br>Identifiqué y definí las funcionalidades clave de la versión mobile, lo que permitió guiar el desarrollo orientado a una experiencia de usuario optimizada. Su aporte fue fundamental para alinear al equipo en la construcción de una interfaz coherente, intuitiva y funcional para dispositivos móviles.
+r><br>TF
+            <br>Contribuí activamente a la creación de un entorno colaborativo y corrección de los documentos en el Sprint Planning. Además, coordiné con el equipo la definición de metas claras relacionadas con la mejora de la consistencia,revisión en función de los tiempos establecidos, y aseguré el cumplimiento de los objetivos propuestos.
         </td>
         <td>
             Gracias a la planificación conjunta y a un ambiente de trabajo inclusivo, el equipo logró coordinarse eficazmente para alcanzar hitos clave del proyecto como las entrevistas, User Stories, Event Storming y el Product Backlog. Esta sinergia fue fundamental para avanzar con claridad hacia los objetivos establecidos.
