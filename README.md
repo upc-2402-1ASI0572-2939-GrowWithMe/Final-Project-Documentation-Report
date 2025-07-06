@@ -4,7 +4,7 @@
     <strong>Ingeniería de Software</strong><br>
     <br><strong>Desarrollo de soluciones IoT - 2939</strong><br>
     <br><strong>Docente: León Baca, Marco Antonio</strong><br> 
-    <br><strong>Informe de Trabajo - TB1</strong><br>
+    <br><strong>Informe de Trabajo - TF</strong><br>
 </p>
 
 <p align="center">
@@ -305,7 +305,9 @@ En esta nueva fase del proyecto, continué promoviendo el trabajo en equipo y fo
             <br>Durante este proyecto, lideré el desarrollo del bounded context de dispositivos en el frontend y participé en la configuración del control de versiones usando buenas prácticas de Software Configuration Management. Esto permitió asegurar una estructura técnica ordenada que facilitó la colaboración entre los integrantes del equipo.
             <br><br>TB2
             <br>En esta entrega trabajé en equipo para poder unir todas las funcionalidades y ramas en el entorno del backend y frontend para así poder facilitar el despliegue de las mismas en la nube. Esto ayudará a que existan menos errores para la entrega posterior.
-            <br><br>
+            <br>TF
+	    <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
+	    <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
             TB1 <br> Participé activamente como miembro del equipo, brindando apoyo constante en la elaboración y revisión de la documentación técnica y funcional del proyecto. Además, mantuvimos reuniones frecuentes entre los integrantes del equipo, lo que nos permitió alinear ideas, resolver dudas en conjunto y trabajar de manera más eficiente y coordinada.
             <br><br>TP1
@@ -367,6 +369,9 @@ En esta etapa del proyecto, promoví un entorno colaborativo e inclusivo dentro 
             <br><br>TB2
             <br>En esta entrega ayudé a la implementación y corrección del backend y frontend del proyecto, ayudando a unir las ramas de mis compañeros y corrigiendo errores en la conexión entre backend y base de datos. Esto facilitará el despliegue del backend y la conexión entre frontend y backend.
 	<br><br>
+		<br><br>TF
+	    <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
+	    <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
             TB1 <br> Apoyé en la elaboración de la documentación técnica y de los diagramas de bounded context, participando activamente en reuniones con el equipo para alinear ideas y mejorar la eficiencia del trabajo conjunto.
             <br><br>TP1
@@ -2948,33 +2953,53 @@ Estado: En producción activa
 
 ![image](assets/Landing4.png)
 
-Versión Final
-Estado: En producción activa
-Se accede a la página web - Frontend, desde la opción Aplicación cta.
-
-![image](assets/GWMLP.png)
-*Más imágenes*
-
-*Enlace del Video:*
+*Enlace del Video:* <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6Ob1Pe>
 
 #### Front-End
 
-Nueva Versión
+Versión Final
+
 Estado: En producción activa
 
-![image](assets/GWMFront.png)
-*Más imágenes*
+![image](assets/F1.jpg)
 
-*Enlace del Video:*
+![image](assets/F2.jpg)
+
+![image](assets/F3.jpg)
+
+![image](assets/F4.jpg)
+
+![image](assets/F5.jpg)
+
+![image](assets/F6.jpg)
+
+![image](assets/F7.jpg)
+
+![image](assets/F8.jpg)
+
+![image](assets/F9.jpg)
+
+*Enlace del Video:* <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6Ob1Pe>
+
+#### Back-End
+
+Versión Final
+
+Estado: En producción activa
+
+![alt text](assets/back.jpg)
+
+![alt text](assets/back1.jpg)
 
 #### Mobile App
 
-Estado: En producción activa
+Versión Final 
 
-![image](assets/M1.jpg)
+Estado: Desplegado en APK
 
-![image](assets/M2.jpg)
-*Más imágenes*
+![image](assets/Mb1.png)
+
+![image](assets/Mb2.png)
 
 *Enlace del Video:*
 
@@ -2985,10 +3010,8 @@ Versión Final
 Estado: En producción activa
 
 ![image](assets/WOKWI.jpg)
-*Más imágenes*
 
-*Enlace del Video:*
-
+![image](assets/PrototipoFW.jpg)
 
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 
@@ -3057,6 +3080,22 @@ Para el Sprint 3, se estructuraron mejor los endpoints del Backend para poder mo
 | Método  | Endpoint                          | Descripción                                                    |
 |---------|-----------------------------------|----------------------------------------------------------------|
 | GET     | `/api/v1/notifications/farmer`         | Devuelve la lista de todas las notificaciones por su agricultor ID. |
+
+Front
+
+![image](assets/F1.jpg)
+
+![image](assets/F2.jpg)
+
+![image](assets/F3.jpg)
+
+![image](assets/F4.jpg)
+
+![image](assets/F5.jpg)
+
+Back
+
+![alt text](assets/back1.jpg)
 
 ---
 
@@ -3385,6 +3424,18 @@ La siguiente tabla resume los resultados de dicha evaluación.
 - Registro en bitácora de cambios de estado
 
 ![](assets/H4.png)
+
+**Problema #5:** Debe existir un icono que represente agregar.  
+
+**Heurística violada:** Control y libertad del usuario  
+
+![](assets/HM1.png)
+
+**Problema #6:** Debe existir un icono que represente satisfacción.  
+
+**Heurística violada:** Control y libertad del usuario  
+
+![](assets/HM2.png)
 
 ## 6.4. Video About-the-Product  
 
