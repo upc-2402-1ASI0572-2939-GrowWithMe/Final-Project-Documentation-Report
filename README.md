@@ -4,7 +4,7 @@
     <strong>Ingeniería de Software</strong><br>
     <br><strong>Desarrollo de soluciones IoT - 2939</strong><br>
     <br><strong>Docente: León Baca, Marco Antonio</strong><br> 
-    <br><strong>Informe de Trabajo - TF</strong><br>
+    <br><strong>Informe del Trabajo Final</strong><br>
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ TF: Se han desarrollado las actividades correspondientes para la entrega TF en e
 
 - Se afinaron los ultimos detalles de la landing, de la webapp y de mobile app. Especialmente se ajustaron el sistema IOT.
 
-Enlace del repositorio: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Final-Project-Documentation-Report
+Enlace de la organización: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe
 
 ---
 # Contenido 
@@ -305,7 +305,7 @@ En esta nueva fase del proyecto, continué promoviendo el trabajo en equipo y fo
             <br>Durante este proyecto, lideré el desarrollo del bounded context de dispositivos en el frontend y participé en la configuración del control de versiones usando buenas prácticas de Software Configuration Management. Esto permitió asegurar una estructura técnica ordenada que facilitó la colaboración entre los integrantes del equipo.
             <br><br>TB2
             <br>En esta entrega trabajé en equipo para poder unir todas las funcionalidades y ramas en el entorno del backend y frontend para así poder facilitar el despliegue de las mismas en la nube. Esto ayudará a que existan menos errores para la entrega posterior.
-            <br>TF
+            <br><br>TF
 	    <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
 	    <br><br>
             <strong>Morin Fuentes, Jean Pierre</strong> <br><br>
@@ -314,22 +314,22 @@ En esta nueva fase del proyecto, continué promoviendo el trabajo en equipo y fo
             <br>Colaboré activamente en este proyecto mediante la creación de mockups, prototipos funcionales y el diseño de las vistas web. Mi aporte fue clave para construir una visión compartida del producto y facilitar el trabajo coordinado en base a entregables visuales validados por el equipo.
             <br><br>TB2
             <br>En esta entrega, he trabajado en equipo aplicando un liderazgo colaborativo, aportando activamente en el diseño de interfaces mediante mockups y wireframes, así como en el desarrollo del código para lograr la interacción y visualización en tiempo real de la aplicación. Además, realicé el desarrollo y simulación en Wokwi para validar el funcionamiento del hardware y su integración. Junto a mis compañeros, tomamos decisiones de manera conjunta, aplicando prácticas del IoT para asegurar una solución funcional, eficiente y centrada en la experiencia del usuario.
-		TF
-Se logró cumplir con el desarrollo e integración del backend, el módulo edge y las simulaciones en Wokwi, asegurando su correcto despliegue, funcionamiento y conexión con el resto del sistema, lo que permitió validar su operatividad dentro del ecosistema de GWM.
+            <br><br>TF
+            <br>Se logró cumplir con el desarrollo e integración del backend, el módulo edge y las simulaciones en Wokwi, asegurando su correcto despliegue, funcionamiento y conexión con el resto del sistema, lo que permitió validar su operatividad dentro del ecosistema de GWM.
             <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> Durante el desarrollo de nuestro proyecto colaboré activamente a lo largo del mismo desarrollando las primeras versiones de las historias de usuario y el product backlog, el impact mapping, una de las entrevistas y los diagramas c4 Model contribuyendo con mi participación al equipo y desarrollar de manera eficaz y eficiente el proyecto.
             <br><br>TP1
             <br>Durante el desarrollo del proyecto, contribuí en la elaboración de mockups, el desarrollo del módulo de actividades del calendario en el frontend y la definición de los User Flows. Además, participé en la mejora continua del sistema, asegurando coherencia funcional y visual en los entregables.
             <br><br>
-		TB2<br>
-Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquitectura del sistema, analizando y ajustando los componentes para una mejor escalabilidad y mantenibilidad. Además, lideré sesiones de revisión técnica con el equipo para discutir mejoras estructurales y asegurar una visión técnica común. También participé activamente en el desarrollo de la aplicación móvil, coordinando la integración de nuevas funciones y colaborando en la resolución de desafíos técnicos durante el sprint. Esta labor permitió fortalecer la cohesión técnica y la calidad del producto entregado.
-	<br><br>TF
+            TB2<br>
+            Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquitectura del sistema, analizando y ajustando los componentes para una mejor escalabilidad y mantenibilidad. Además, lideré sesiones de revisión técnica con el equipo para discutir mejoras estructurales y asegurar una visión técnica común. También participé activamente en el desarrollo de la aplicación móvil, coordinando la integración de nuevas funciones y colaborando en la resolución de desafíos técnicos durante el sprint. Esta labor permitió fortalecer la cohesión técnica y la calidad del producto entregado.
+              <br><br>TF
 	    <br>Se desarrollaron los módulos de frontend, backend y las simulaciones en Wokwi, con el objetivo de validar el funcionamiento integral del sistema, garantizando la coherencia entre interfaces, lógica de negocio y componentes físicos simulados dentro del entorno de GWM.
 	    <br><br>
             <strong>Oneglio De Paz, Beth Shantal</strong> <br><br>
             TB1 <br> Colaboré activamente en equipo, asumiendo un rol de liderazgo compartido, lo que me permitió fortalecer mis habilidades blandas en organización. Gracias a ello, logramos concluir satisfactoriamente la Entrevista del primer segmento, el To-Be Scenario Mapping, las User Stories y el Product Backlog.
-            <br><br>TP1
+            <br><br>TP
             <br>Asumí un rol activo en el diseño del Dashboard y la redacción del Capítulo 6 del informe. Estas tareas me permitieron aportar desde una perspectiva organizativa y visual, apoyando la coordinación del equipo y la consolidación de entregables tanto técnicos como documentales.
             <br><br>TB2
 	    <br>En esta entrega, he trabajado en equipo aplicando un liderazgo colaborativo, aportando activamente en el diseño de interfaces mediante mockups y wireframes, así como en el desarrollo del código para lograr la interacción y visualización en tiempo real de la aplicación. Junto a mis compañeros, tomamos decisiones de manera conjunta, aplicando prácticas del IoT para asegurar una solución funcional, eficiente y centrada en la experiencia del usuario.
@@ -338,7 +338,7 @@ Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquite
 	    <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Como parte del equipo, me encargué de realizar entrevistas y gestionar los bounded context canvas, contribuyendo activamente al liderazgo compartido y a la toma de decisiones grupales, lo que permitió avanzar de manera eficaz en el proyecto.
-            <br><br>TP1
+            <br><br>TP
             <br>Durante el trabajo, elaboré lineamientos generales de estilo y definí guías específicas para las plataformas web, móvil e IoT. Gracias a esta estandarización, el equipo pudo mantener una identidad visual coherente en todas las interfaces del sistema.
 	<br><br>TB2
             <br>Definí los elementos críticos de la versión móvil, asegurando que el desarrollo priorizara la experiencia del usuario. Mi rol fue decisivo para consolidar una visión compartida que resultó en una interfaz coherente, fácil de usar y técnicamente sólida.
@@ -355,7 +355,7 @@ Durante esta fase, mi aporte estuvo enfocado en la reorganización de la arquite
         <td>
             <strong>Acuña Gomez, Diego Jose</strong> <br><br>
             TB1 <br> Durante este proyecto, me enfoqué en crear un entorno colaborativo e inclusivo donde todas las voces fueran escuchadas y valoradas. Establecí metas claras junto al equipo, planificamos tareas de forma estratégica y distribuimos responsabilidades de manera equitativa. Gracias a esta organización, pudimos avanzar de forma eficiente y cumplir los objetivos planteados, manteniendo siempre una comunicación abierta y un compromiso constante por parte de todos los miembros.
-            <br><br>TP1
+            <br><br>TP
             <br>Durante el desarrollo de este trabajo, fomenté un ambiente inclusivo en el equipo, donde cada integrante pudo expresar sus ideas y propuestas con libertad. Organicé la planificación de tareas clave, definí metas técnicas alcanzables y realicé seguimientos para asegurar el avance continuo del equipo. Gracias a esta organización, pudimos mantener una dinámica clara y eficiente en el desarrollo de funcionalidades y despliegue.
             <br><br>
 		TB2<br>
@@ -378,9 +378,9 @@ En esta etapa del proyecto, promoví un entorno colaborativo e inclusivo dentro 
             <br>Contribuí activamente en el entorno de trabajo colaborativo mediante la elaboración de mockups y prototipos que sirvieron como punto de referencia común para el equipo. Participé en reuniones donde alineamos ideas y planificamos avances, permitiendo mantener claridad sobre los objetivos visuales y técnicos del proyecto.
             <br><br>TB2
             <br>En esta entrega, colaboré en equipo ejerciendo un liderazgo participativo, contribuyendo de manera activa en la creación de interfaces a través de mockups y wireframes, además de desarrollar el código necesario para permitir la interacción y visualización en tiempo real de la aplicación. Junto a mis colegas, tomamos decisiones de forma consensuada, implementando prácticas de IoT para garantizar una solución funcional, eficiente y orientada a una experiencia de usuario óptima.
-            <br>            <br><br>TF
-	    <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
-	    <br><br><br>
+            <br><br>TF
+	          <br>Fomentamos un entorno de trabajo colaborativo e inclusivo, estableciendo metas claras, organizando tareas y cumpliendo con los objetivos propuestos de manera efectiva.
+            <br><br>
             <strong>Noriega Suschenko, Anatoly Andrey</strong> <br><br>
             TB1 <br> A lo largo del trabajo del proyecto he fomentado un entorno colaborativo e inclusivo dentro del equipo participando activamente en las tareas y revisando que ciertos puntos del trabajo fueran concretado aportando con las entrevistas  y digagramas del proyecto.
             <br><br>TP1
@@ -401,11 +401,11 @@ Durante esta etapa, trabajé en crear un ambiente inclusivo donde cada miembro p
 	    <br><br>
             <strong>Tongo Alejandro, Milagros Salet</strong> <br><br>
             TB1 <br> Colaboré en la creación de un ambiente inclusivo y organizado, donde establecí metas claras, planifiqué tareas específicas y aseguré que se cumplieran los objetivos, trabajando de cerca con el equipo y revisando constantemente los avances.
-            <br><br>TP1
+            <br><br>TP
             <br>Durante este proyecto, propicié un entorno ordenado y colaborativo al definir las guías de estilo para las diferentes plataformas. Estas pautas facilitaron la planificación visual del sistema y permitieron al equipo trabajar con una base común, cumpliendo los objetivos establecidos con coherencia visual y técnica.
-		br><br>TB2
+		        <br><br>TB2
             <br>Identifiqué y definí las funcionalidades clave de la versión mobile, lo que permitió guiar el desarrollo orientado a una experiencia de usuario optimizada. Su aporte fue fundamental para alinear al equipo en la construcción de una interfaz coherente, intuitiva y funcional para dispositivos móviles.
-r><br>TF
+            <br><br>TF
             <br>Contribuí activamente a la creación de un entorno colaborativo y corrección de los documentos en el Sprint Planning. Además, coordiné con el equipo la definición de metas claras relacionadas con la mejora de la consistencia,revisión en función de los tiempos establecidos, y aseguré el cumplimiento de los objetivos propuestos.
         </td>
         <td>
@@ -2448,8 +2448,7 @@ Imagen de los Insights de la Web App:
 | **Attendees (to planning meeting)** | Diego Acuña, Favio Landeo, Beth Oneglio, Milagros Tongo, Anatoly Noriega, Jean Morin. |
 | **Sprint 2 - Review Summary** | Se desplegó correctamente el Landing Page, nuestra Web Application y Mobile Application. Además, se integró una solución IoT a nuestros proyectos. Como grupo opinamos que la información detallada es adecuada, sin embargo, existen mejoras por implementar. |
 | **Sprint 2 - Retrospective Summary** | Como equipo, hemos logrado desplegar con éxito el landing page, garantizando que la información sea precisa y las secciones estén bien estructuradas. Nuestra forma de trabajo ha sido altamente colaborativa, lo que nos ha permitido obtener buenos resultados. No obstante, identificamos que podemos fortalecer la confianza entre los miembros para mejorar aún más la dinámica del equipo.<br>**Aspectos positivos:** Se logró desplegar exitosamente el landing page. La información en el sitio es precisa y bien estructurada. El trabajo colaborativo fue clave para obtener buenos resultados.<br>**Áreas de mejora:** Necesitamos fortalecer la confianza entre los miembros del equipo.<br>**Acciones a implementar:** Fomentar espacios de comunicación abierta y feedback constructivo. Realizar dinámicas breves de team building al inicio de cada reunión semanal. |
-| **Sprint Goal & User Stories** | **Sprint 2 Goal:** Realizar los últimos detalles del funcionamiento de la solución IoT integrada a nuestras aplicaciones.<br>
- **Logros del Sprint:** Se desplegó satisfactoriamente el Landing Page. Se completó el desarrollo de la Web Application y Mobile Application. Se integró exitosamente la solución IoT a nuestras aplicaciones. |
+| **Sprint Goal & User Stories** | **Sprint 2 Goal:** Realizar los últimos detalles del funcionamiento de la solución IoT integrada a nuestras aplicaciones. <br> **Logros del Sprint:** Se desplegó satisfactoriamente el Landing Page. Se completó el desarrollo de la Web Application y Mobile Application. Se integró exitosamente la solución IoT a nuestras aplicaciones. |
 | **Sprint 2 - Velocity** | El equipo puede aceptar 35 Story Points. |
 | **Sprint 2 - Story Points** | La suma de los Story Points de los User Stories que se atenderá es 62. |
 
@@ -2666,12 +2665,11 @@ En esta sección mostramos los commits realizados durante el desarrollo del proy
 | Mobile-GrowWithMe | main   | c283882   | feat: add activity form                             |                     | 17/06/2025          |
 | Mobile-GrowWithMe | main   | 92c5c36   | feat: add calendar component                        |                     | 17/06/2025          |
 
-
 Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/LandingPage-GrowWithMe
 
 Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
 
-Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+Enlace Repositorio Back-End: https://fresh-wahoo-tolerant.ngrok-free.app/swagger-ui/index.html
 
 Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
 
@@ -2703,7 +2701,6 @@ Estado: En producción activa
 Se accede a la página web - Frontend, desde la opción Aplicación cta.
 
 ![image](assets/GWMLP.png)
-*Más imágenes*
 
 *Enlace del Video:*
 
@@ -2712,10 +2709,25 @@ Se accede a la página web - Frontend, desde la opción Aplicación cta.
 Nueva Versión
 Estado: En producción activa
 
-![image](assets/GWMFront.png)
-*Más imágenes*
+![image](assets/F1.jpg)
 
-*Enlace del Video:*
+![image](assets/F2.jpg)
+
+![image](assets/F3.jpg)
+
+![image](assets/F4.jpg)
+
+![image](assets/F5.jpg)
+
+![image](assets/F6.jpg)
+
+![image](assets/F7.jpg)
+
+![image](assets/F8.jpg)
+
+![image](assets/F9.jpg)
+
+Enlace del Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kIQ2wQ
 
 #### Mobile App
 
@@ -2916,7 +2928,7 @@ Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowW
 
 Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
 
-Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+Enlace Repositorio Back-End: https://fresh-wahoo-tolerant.ngrok-free.app/swagger-ui/index.html
 
 Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
 
@@ -2937,23 +2949,6 @@ Enlace Repositorio Testing: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe
 #### 6.2.3.6. Execution Evidence for Sprint Review  
 
 En el Sprint 3 se alcanzó a desarrollar la última versión de la landing page con la retroalimentación del profesor, la tercera versión del Frontend de la Aplicación Web, asimismo, la segunda versión del Frontend de la Aplicación Mobile; también se cumplió con la segunda versión del Backend y la integración con el entorno IoT del proyecto. A continuación se adjunta la evidencia:
-
-- Landing Page
-
-Versión Final con la Retroalimentación del profesor:
-Estado: En producción activa
-
-![image](assets/Landing1.png)
-
-![image](assets/Landing2.png)
-
-![image](assets/Landing3.png)
-
-![image](assets/Landing4.png)
-
-![image](assets/Landing4.png)
-
-*Enlace del Video:* <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6Ob1Pe>
 
 #### Front-End
 
@@ -2979,7 +2974,7 @@ Estado: En producción activa
 
 ![image](assets/F9.jpg)
 
-*Enlace del Video:* <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6Ob1Pe>
+Enlace del Video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EQQ_5LUuQhlDrD9veSIsXpcBG3c7uQjEJqlZb3vA_FW8Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6Ob1Pe>
 
 #### Back-End
 
@@ -3001,7 +2996,7 @@ Estado: Desplegado en APK
 
 ![image](assets/Mb2.png)
 
-*Enlace del Video:*
+Enlace del Video: https://www.youtube.com/watch?v=yi7FEWneXPs
 
 #### Wokwi
 
@@ -3011,14 +3006,12 @@ Estado: En producción activa
 
 ![image](assets/WOKWI.jpg)
 
-![image](assets/PrototipoFW.jpg)
-
 #### 6.2.3.7. Services Documentation Evidence for Sprint Review
 
 Para el Sprint 3, se estructuraron mejor los endpoints del Backend para poder mostrar y funcionar correctamente las funcionalidades en el Fronted de la Web App y Mobile App.
 
 - Endpoints de la API
-
+<br>
   - IAM:
 
 | Método  | Endpoint                          | Descripción                                             |
@@ -3081,7 +3074,7 @@ Para el Sprint 3, se estructuraron mejor los endpoints del Backend para poder mo
 |---------|-----------------------------------|----------------------------------------------------------------|
 | GET     | `/api/v1/notifications/farmer`         | Devuelve la lista de todas las notificaciones por su agricultor ID. |
 
-Front
+- Front-End
 
 ![image](assets/F1.jpg)
 
@@ -3093,7 +3086,7 @@ Front
 
 ![image](assets/F5.jpg)
 
-Back
+- Back-End
 
 ![alt text](assets/back1.jpg)
 
@@ -3109,20 +3102,20 @@ Para el despliegue de la aplicación principal desarrollada en Angular, se optó
 
 El procedimiento seguido fue el siguiente:
 
-1. Compilación del proyecto Angular
+1. Compilación del proyecto Angular.
 Se ejecutó el comando ng build desde la raíz del proyecto, lo que generó los archivos estáticos necesarios dentro del directorio dist/.
 
 2. Configuración del archivo netlify.toml
 Se creó un archivo netlify.toml para definir correctamente las reglas de redirección internas, permitiendo que las rutas gestionadas por Angular funcionen adecuadamente incluso al acceder directamente mediante URL.
 
-3. Publicación en Netlify
+3. Publicación en Netlify.
 Se especificó como carpeta de despliegue el subdirectorio dentro de dist/ correspondiente al nombre del proyecto. Una vez completado este paso, el sistema confirmó que el despliegue se realizó con éxito.
 
 Gracias a este proceso, el avance correspondiente al Sprint 3 quedó operativo y accesible públicamente para su revisión.
 
 ![alt text](image-1.png)
 
-#### Despliegue del Backend:
+#### Despliegue del Back-End
 
 ![alt text](assets/back.jpg)
 
@@ -3130,7 +3123,7 @@ Gracias a este proceso, el avance correspondiente al Sprint 3 quedó operativo y
 
 #### Landing Page 
 
-Enlace: https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
+Enlace Repositorio Landing-Page: https://upc-2402-1asi0572-2939-growwithme.github.io/LandingPage-GrowWithMe/
 
 #### Front-End
 
@@ -3162,7 +3155,7 @@ Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GRO
 
 ##### Back-End
 
-*Imagen*
+![image](insight-mobile.png)
 
 ## 6.3. Entrevistas de Validación
 
@@ -3170,7 +3163,7 @@ Enlace Repositorio IoT: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/GRO
 
 A continuación, se presentan las preguntas que se utilizarán en las entrevistas de validación para evaluar la facilidad de uso de la aplicación actual. Estas preguntas están orientadas a examinar principios de usabilidad y obtener información clave sobre la experiencia del usuario.
 
-### Preguntas Generales (para ambos segmentos)
+#### Preguntas Generales (para ambos segmentos)
 
 Estas preguntas buscan evaluar la experiencia general con la aplicación en base a principios de usabilidad.
 
@@ -3188,7 +3181,7 @@ Estas preguntas buscan evaluar la experiencia general con la aplicación en base
 
 ---
 
-### Preguntas Específicas para Agricultores
+#### Preguntas Específicas para Agricultores
 
 **Objetivo de las preguntas:** Evaluar cómo perciben los agricultores la utilidad de la app en su trabajo diario, especialmente en comparación con métodos tradicionales como el uso de papel.
 
@@ -3203,7 +3196,7 @@ Estas preguntas buscan evaluar la experiencia general con la aplicación en base
 
 ---
 
-### Preguntas Específicas para Consultores
+#### Preguntas Específicas para Consultores
 
 **Objetivo de las preguntas:** Analizar si la app facilita el acceso a la información, la interpretación de datos técnicos y la comunicación con los agricultores.
 
@@ -3218,7 +3211,7 @@ Estas preguntas buscan evaluar la experiencia general con la aplicación en base
 
 ### 6.3.2. Registro de Entrevistas 
 
-### Segmento para Agricultores
+#### Segmento para Agricultores
 
 **URL de toodas la entrevistas de validación:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/Eb3LCSNQTt9OglV4C_FnnDkB1PNHt2oWXxfquY5gC1ELaw?e=cdcL5s&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 
@@ -3238,7 +3231,7 @@ Jeyson encontró la landing page y la aplicación web bien estructuradas, con in
 
 ![](assets/entrevista2-bt.png)
 
-**Timing:*5:02* 
+Timing: 5:02 
 
 **Nombre:** Juan Calisaya
 
@@ -3262,7 +3255,7 @@ Gabriela Nomberto compartió una opinión favorable sobre la aplicación Grow Wi
 
 Además, Gabriela valoró positivamente la fluidez del recorrido del usuario, indicando que el flujo de uso está bien definido y se siente natural. En su evaluación, el diseño refleja un buen manejo de los principios de experiencia de usuario (UX) y diseño de interfaz (UI), logrando una interacción eficaz y amigable.
 
-### Segmento para Consultores
+#### Segmento para Consultores
 
 **Entrevista N°1:**
 
@@ -3313,20 +3306,21 @@ Curso: Desarrollo de Soluciones IoT
 Sección: 2939
 
 SITE O APP A EVALUAR: 
-GrowWithMe
+
+Grow With Me
 
 **TAREAS A EVALUAR:**
 
 A partir del análisis de las entrevistas y retroalimentación de los usuarios, se han identificado los siguientes requerimientos funcionales clasificados según la plataforma:
 
-## Web Application
+#### Web Application
 
 - Los usuarios quieren tener la opción de modo oscuro.
 - Los usuarios quieren ver el detalle de cada dispositivo conectado.
 - Debe existir una opción de búsqueda para localizar cultivos rápidamente.
 - Debe existir un switch para conectar o desconectar los dispositivos desde el panel web.
 
-## Mobile Application
+#### Mobile Application
 
 - Los usuarios quieren tener la opción de modo oscuro.
 - Los usuarios quieren consultar el detalle de cada dispositivo desde la app.
@@ -3354,16 +3348,12 @@ La siguiente tabla resume los resultados de dicha evaluación.
 
 - WEB APPLICATION:
 
-| #Orden | Problema                                                                 | Escala de Severidad | Heurística/Principio violada(o)       |
+| # Orden | Problema                                                                 | Escala de Severidad | Heurística/Principio violada(o)       |
 |--------|--------------------------------------------------------------------------|---------------------|---------------------------------------|
 | 1      | Los usuarios quieren tener la opción de modo oscuro.                     | Moderado            | Consistencia y estándares             |
 | 2      | Los usuarios quieren tener el detalle de cada dispositivo.               | Grave               | Visibilidad del estado del sistema    |
 | 3      | Debe existir una opción de búsqueda en los cultivos.                     | Grave               | Flexibilidad y eficiencia de uso      |
 | 4      | Debe existir un switch para conectar o desconectar los dispositivos.     | Muy grave          | Control y libertad del usuario        |
-
-- MOBILE APPLICATION:
-
-*FALTA TABLA*
 
 **Heurísticas y Recomendaciones:**
 
@@ -3425,6 +3415,15 @@ La siguiente tabla resume los resultados de dicha evaluación.
 
 ![](assets/H4.png)
 
+- MOBILE APPLICATION:
+
+| # Orden | Problema                                                                 | Escala de Severidad | Heurística/Principio violada(o)       |
+|--------|--------------------------------------------------------------------------|---------------------|---------------------------------------|
+| 1      | Los usuarios quieren tener la opción de modo oscuro.                     | Moderado            | Consistencia y estándares             |
+| 2      | Los usuarios quieren tener el detalle de cada dispositivo.               | Grave               | Visibilidad del estado del sistema    |
+| 3      | Debe existir una opción de búsqueda en los cultivos.                     | Grave               | Flexibilidad y eficiencia de uso      |
+| 4      | Debe existir un switch para conectar o desconectar los dispositivos.     | Muy grave          | Control y libertad del usuario        |
+
 **Problema #5:** Debe existir un icono que represente agregar.  
 
 **Heurística violada:** Control y libertad del usuario  
@@ -3459,9 +3458,9 @@ La implementación de sistemas de búsqueda, navegación y etiquetado ha permiti
 
 Por otro lado, se ha demostrado la importancia de contar con una gestión de versiones clara y un flujo de trabajo ágil, respaldado por herramientas como Trello, GitHub y convenciones de commits. Esto ha facilitado una mejor organización, trazabilidad y control durante el desarrollo e integración del sistema.
 
-Finalmente, se destaca que el trabajo en equipo ha sido un factor determinante para alcanzar los objetivos del proyecto. La colaboración activa entre los integrantes permitió distribuir tareas de manera estratégica, aprovechar fortalezas individuales y mantener una comunicación constante que garantizó la calidad y coherencia en cada entrega.
-
 TB2: Durante este sprint se mejoró el Landing Page, se avanzó en el desarrollo del frontend web y móvil, y se implementaron funcionalidades clave del backend e integración IoT, todo alineado con las User Stories definidas. Se utilizaron herramientas como Trello para la gestión ágil de tareas, alcanzando tareas asignadas. Además, se realizaron pruebas de aceptación mediante archivos .feature registrados en el repositorio correspondiente.
+
+Trabajo Final: Se destaca que el trabajo en equipo ha sido un factor determinante para alcanzar los objetivos del proyecto. La colaboración activa entre los integrantes permitió distribuir tareas de manera estratégica, aprovechar fortalezas individuales y mantener una comunicación constante que garantizó la calidad y coherencia en cada entrega.
 
 # Video About-the-Team
 
@@ -3501,7 +3500,7 @@ Enlace Repositorio Landing Page: https://github.com/upc-2402-1ASI0572-2939-GrowW
 
 Enlace Repositorio Front-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Front-End-GrowWithMe
 
-Enlace Repositorio Back-End: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Back-End-GrowWithMe
+Enlace Repositorio Back-End: https://fresh-wahoo-tolerant.ngrok-free.app/swagger-ui/index.html
 
 Enlace Repositorio Mobile: https://github.com/upc-2402-1ASI0572-2939-GrowWithMe/Mobile-GrowWithMe
 
